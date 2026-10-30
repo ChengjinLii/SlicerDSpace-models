@@ -1,17 +1,17 @@
 <div align="center">
 
-# SlicerDDSurfer Resources
+# SlicerDSpace Resources
 
-[Code](https://github.com/ChengjinLii/SlicerDDSurfer) | [Layout](#layout) | [Optional Resources](#optional-resources) | [Notices](RESOURCE_NOTICES.md) | [中文](README.zh-CN.md)
+[Code](https://github.com/ChengjinLii/SlicerDSpace) | [Layout](#layout) | [Optional Resources](#optional-resources) | [Notices](RESOURCE_NOTICES.md) | [中文](README.zh-CN.md)
 
 </div>
 
 ---
 
 This repository stores model weights, atlases, templates and other large non-code runtime resources used by
-SlicerDDSurfer. The code repository is:
+SlicerDSpace. The code repository is:
 
-https://github.com/ChengjinLii/SlicerDDSurfer
+https://github.com/ChengjinLii/SlicerDSpace
 
 ## Layout
 
@@ -71,6 +71,8 @@ core profile. Merely cloning the code must not download every optional atlas.
 | TractCloud | Model, inference arguments, 308-byte atlas reference and upstream agreement | Minimal inference subset, not training/test datasets |
 | SynthStrip | Main version-1 model | Author's CC BY 4.0 option, attributed and unmodified |
 | WMA / ORG | Official registration and clustering ZIPs, upstream agreement | Separate opt-in archive profile; preserve ORG citation and CC BY 4.0 attribution |
+| WMA / East-West | Eastern / Western adult atlas runtime | Opt-in `wma-east-west`; original data bytes, CC BY 4.0 attribution |
+| WMA / NABA | Neonatal / adult atlas runtime | Opt-in `wma-naba`; original data bytes, CC BY 4.0 attribution |
 
 `optional_assets_mirror_manifest.json` and `optional_assets_mirror_index.tsv`
 describe the prepared optional mirror separately from the original core index.
@@ -83,6 +85,19 @@ WMA's extracted local trees are ignored by Git and can be reproduced from the
 two pinned ZIPs and verified against the 849-file index. IIT is not in Git.
 Independent fresh-checkout readback verified all 14 optional file sizes and
 SHA256 values. Selected files contain no unresolved LFS pointers.
+
+### Atlas Families
+
+The code parameter `--wma-atlas org|east-west|naba` selects one atlas; ORG
+remains the default. [East-West](https://doi.org/10.1038/s41597-024-03624-2)
+and [NABA](https://doi.org/10.1016/j.fmre.2025.12.030) runtime resources live
+under `bundles/wma/east-west/` and `bundles/wma/naba/`. Each has a SHA256
+extraction inventory, provenance/attribution and split ZIP parts below 512 MiB
+stored in Git LFS. The runtime subset retains the registration atlas, spectral
+atlas, all 800 reference clusters, hemisphere labels and tract MRMLs. Original
+archive checksums and source DOIs are in `ATLAS.json`; extracted trees stay
+local and are recreated by the code repository's selected-profile installer.
+NABA covers neonates and adults, not all paediatric ages.
 
 Use the code repository to verify local resources:
 
@@ -129,6 +144,17 @@ python3 scripts/download_model_assets.py \
   --source url \
   --base-url https://example.org/SlicerDDSurfer-models/v0.1.0
 ```
+
+For an offline mirror, clone metadata first and materialize only the atlas you
+need (NABA below; replace `naba` with `east-west` for East-West):
+
+```bash
+GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/ChengjinLii/SlicerDSpace-models.git
+git -C SlicerDSpace-models lfs pull --include='bundles/wma/naba/archives/*' --exclude=''
+```
+
+The setup helper also supports direct HTTP downloads without a model-repository
+checkout. Its plan shows download and extraction space before installation.
 
 ## Release Policy
 

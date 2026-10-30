@@ -1,0 +1,4246 @@
+{
+  "kind": "wma_runtime_extraction_index",
+  "atlas_family": "east-west",
+  "files": [
+    {
+      "path": "ATLAS.json",
+      "size_bytes": 3546,
+      "sha256": "68295ca356c759e2c7cff0d03c0a3a2786c7d746c41b30a8daf37e2363904da8"
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "size_bytes": 455,
+      "sha256": "baa8f25ab237cea89ea5b9f92d742bd9bc3e9d4d2a0d9880df04ef9f73b74e2f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_AF.mrml",
+      "size_bytes": 65645,
+      "sha256": "404c17719915882dc07226408faca6d3636d23ef878f3a235689e5bac1791139"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_CB.mrml",
+      "size_bytes": 95592,
+      "sha256": "a37cca1a395cd78d738bd6c5b895286fc65482238f37d68ce87e67fe830da17b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_CBLM-I&P.mrml",
+      "size_bytes": 65645,
+      "sha256": "27b7cfc4b5e74b2a968793275808d8d74da50ec8104cb6bbe38f3d00dc19913e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_CBLM-PaT.mrml",
+      "size_bytes": 251146,
+      "sha256": "9d3f25e56fe15f94c8b20368308b150720fdefcd77776446037048daa9cdcbcc"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_CC1.mrml",
+      "size_bytes": 35809,
+      "sha256": "d06ac5949f5a2ea9d1f1347615bc5bd9ae1e2f7294adc8a0c48109784c397453"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_CC2.mrml",
+      "size_bytes": 65645,
+      "sha256": "ecc7636c55f2918bfb42c648691890514d86dd0f604655ed99cc887b2e1facef"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_CC3.mrml",
+      "size_bytes": 41762,
+      "sha256": "16d73d2683d03de0cd73713d4b9389f0cdbca9277958480d7186e6fca7ff2365"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_CC4.mrml",
+      "size_bytes": 53725,
+      "sha256": "a3126f3a3228b2f3a9288e843ed865359c067aa849b066fa116fa8990e9ce6b2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_CC5.mrml",
+      "size_bytes": 29814,
+      "sha256": "87bc49f9994e20026b098205d11d3fc386299da6162ed1d997ce1c35df0c037f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_CC6.mrml",
+      "size_bytes": 143380,
+      "sha256": "fc51c4c8280dee43f142bf0f10bd720b01b3d275221a5585ad500fab3598cffd"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_CC7.mrml",
+      "size_bytes": 23885,
+      "sha256": "40ab78558cc45e8c7e824fabcfd18ae835287436050c0eab57fcc4bf1dfa4a0d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_CPC.mrml",
+      "size_bytes": 53725,
+      "sha256": "cf3f66faf2487baefc8100f42ddfbfd55deb8d38dc49c16a8ebb5ed1b9e7e09c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_CR-F.mrml",
+      "size_bytes": 71674,
+      "sha256": "3f23323411c605ada62c5f8b75d8185dc1830489003b6e4d0798d545ff20b7fd"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_CR-P.mrml",
+      "size_bytes": 29814,
+      "sha256": "867c7499d5d2e72b00f01b019b3d968922112b5034470601df09bfe6ba50f491"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_CST.mrml",
+      "size_bytes": 53725,
+      "sha256": "2537aa6e9bb35d1a8cb354f2901a486150021b9c927def0d6920e5302d51e1ec"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_EC.mrml",
+      "size_bytes": 17896,
+      "sha256": "510392421b573ea956f2e1f0125dd2abc780f29c978d9505b6913e0393eb525a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_EmC.mrml",
+      "size_bytes": 17896,
+      "sha256": "d4751980babf9058b2bb138c7d662da300c6b710b14f8e1ea9c1c14ec92d69b9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_ICP.mrml",
+      "size_bytes": 23885,
+      "sha256": "28b016de1f536af0933b06ae5f4fa13ce325b4ef5c13a409f0c89f24e7a61e05"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_ILF.mrml",
+      "size_bytes": 107398,
+      "sha256": "877db7c76dc1750db058f38164ce193ca7bd6ca1de359fb91069a79c9c4b5a90"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_IOFF.mrml",
+      "size_bytes": 29814,
+      "sha256": "f0a37107d94484d6a690509e7b5e0f2699b425fdfbe9c92da4b7f9ce18224195"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_MCP.mrml",
+      "size_bytes": 29814,
+      "sha256": "63699a5988d4b235bc79de9d2292470f82e0fa6a02fd3c063016e67e3835bee6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_MdLF.mrml",
+      "size_bytes": 95592,
+      "sha256": "4ccd8983b15116a0a0c62885f8101d34b3438adab2b5de2b3142a7421411b4ad"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_SCP.mrml",
+      "size_bytes": 17896,
+      "sha256": "06398cbf56368fde516ee12efb9d3a51fd19d9c0cf969dbe1c03045251bc0153"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_SF.mrml",
+      "size_bytes": 107673,
+      "sha256": "ee1e0cf95a39801eb436e7d42b6a321773e2cd05866928fcb7f4b225aa8233b8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_SLF-I.mrml",
+      "size_bytes": 89494,
+      "sha256": "4a82d43caa85f271525ff4acd54cea4b274aed8667c14aef7f94764d332e45d5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_SLF-II.mrml",
+      "size_bytes": 65645,
+      "sha256": "b2af64197b52199328b178dadaa5bbfd10360309a95e2e5f4b92105f64f4d8a6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_SLF-III.mrml",
+      "size_bytes": 71674,
+      "sha256": "b59bb89c8e2ba1694d7414184b9657ea6e86c29d1d0e8a61022c0d6deaf74d5e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_SO.mrml",
+      "size_bytes": 5985,
+      "sha256": "fac64d2ebecc6ef20537e96b962f6eb16d69bdd58ab31b8dcbcf4d55004832fc"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_SP.mrml",
+      "size_bytes": 23906,
+      "sha256": "dad6e7605db818c33960a26d570cc835e4bce77b6940c03e68e4abc3757e9a63"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_Sup-F.mrml",
+      "size_bytes": 526575,
+      "sha256": "74640ebce65cc7af578787116739c671c27440be8b27ca11db327abd96758a26"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_Sup-FP.mrml",
+      "size_bytes": 95592,
+      "sha256": "293d68d59cf3b6cff4643885ab946d052caf30d99b73ea75a5d87fed4cdad772"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_Sup-O.mrml",
+      "size_bytes": 35809,
+      "sha256": "b05c32859aaa6a8f749e5d40736d6e594c416efabd6a1eb7254470531e93634a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_Sup-OT.mrml",
+      "size_bytes": 35809,
+      "sha256": "585c7a251a1dc687d104339fd8e65ec1e724c5fc85b21f7c30609110e3d4dbfd"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_Sup-P.mrml",
+      "size_bytes": 263138,
+      "sha256": "fbe8623ad078572bcf63fdb34f7c0578b26157f61ce636c6393afc36283ba6ac"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_Sup-PO.mrml",
+      "size_bytes": 71674,
+      "sha256": "612421bab52759ef459e49de70dfd11f636f5de71697c8eb3c0ba6722ecb4468"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_Sup-PT.mrml",
+      "size_bytes": 149208,
+      "sha256": "011549307675ee173950b337d48b510d222b18074b8103a84acd3433aad36e9d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_Sup-T.mrml",
+      "size_bytes": 119522,
+      "sha256": "9ef61524c82cf9efa902ede01e21a64d29e7dcf3a9b1093f30111719e068e14b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_TF.mrml",
+      "size_bytes": 113472,
+      "sha256": "d1aaae241daebc1c663a64a84ebc693da53b54101ff15b511465d08e5a9cd70d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_TO.mrml",
+      "size_bytes": 23885,
+      "sha256": "d3c0823a8c5f2bbbe04bc3fd6de8891fd8998e39ed30bbc8c08cd52cd32ef183"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_TP.mrml",
+      "size_bytes": 29911,
+      "sha256": "c8ed36b4f2cddf0a89658c6766fede771fedd7dceb7c8949c403cb58d1b25191"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_TT.mrml",
+      "size_bytes": 53725,
+      "sha256": "b411aeb27a3bed2b83937d1e2ae5031ea196e7974f250bf7071f14409fca842a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/T_UF.mrml",
+      "size_bytes": 53725,
+      "sha256": "705e9a2e21b0ee3f22dd6c74b6479678abf7b5b4a6fc5d9812a175aaeda4e830"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/atlas.p",
+      "size_bytes": 100175390,
+      "sha256": "ed062d5fdace999df1c23819c091ae3bf1998fa59e602abe87e4fae9374d2c00"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/atlas.vtp",
+      "size_bytes": 4730905,
+      "sha256": "e6165e7ceb1d71565c991f69ce6dacfa163a3651080eb436e330285d39b6ef3e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00001.vtp",
+      "size_bytes": 2134612,
+      "sha256": "a3b50af937910cc909423e97a8d7d5b84811add01b87df0fc1d25f964fdb6761"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00002.vtp",
+      "size_bytes": 2937940,
+      "sha256": "30d09ecc3a2402f8ce79db6e0f11507c233d7f33ccd9df951ab0fa20c4a63613"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00003.vtp",
+      "size_bytes": 1811379,
+      "sha256": "9fc4cc8e74367639cece9623160eae4473ae30ac70b27af4637541913d04ada2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00004.vtp",
+      "size_bytes": 3942228,
+      "sha256": "bf52c321b710a5969f1c8e557a034885cebd985c0183740db44673df5dc53c8c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00005.vtp",
+      "size_bytes": 6054822,
+      "sha256": "1c692ed7fb08ec5b84677e84da0b9f0f0a3b2fdf945c1a205e5f7e9548b07f01"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00006.vtp",
+      "size_bytes": 2206629,
+      "sha256": "7e3200f1c9c10e1a94637359637213dbbb98b4dca0e6cc282a06cffcacc13800"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00007.vtp",
+      "size_bytes": 1733090,
+      "sha256": "e53a99f426f9cd0b74b3add08ef759d0aee2d1367162382fe39b57741a77d3c0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00008.vtp",
+      "size_bytes": 6189518,
+      "sha256": "19a985b7c7d198f088a88dd8ba4cd0f82df21d1deb644f2feb31827174c50221"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00009.vtp",
+      "size_bytes": 4166677,
+      "sha256": "fe0f1e7001ec716e52354ce120b4d953f0bb3725731c400173a9c19b3da3e3c7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00010.vtp",
+      "size_bytes": 3114828,
+      "sha256": "5b6b31b8577059bf8f11745161fbe19aab50e1fc51db21f0f7ba4153e8c7417a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00011.vtp",
+      "size_bytes": 2699819,
+      "sha256": "104fcc60f47044b583f9a8c444e55078872ad405a5e0cf7b5ffefb4d8921643c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00012.vtp",
+      "size_bytes": 2352598,
+      "sha256": "13000fd3a932d763b9467ae16c91b0bee195a54f57d02050393d46424d6ececb"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00013.vtp",
+      "size_bytes": 2537546,
+      "sha256": "4cd05da1cc271b720407ceadb8038e5369b8db035f6cf0d11680eedac76bb605"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00014.vtp",
+      "size_bytes": 2681765,
+      "sha256": "4d2c099b3faa6c83efbdeb1078b7a4439d9902edcf2ea323ce4c9e86707b22ef"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00015.vtp",
+      "size_bytes": 3275900,
+      "sha256": "1e5c6a385d3ece8ed44725406d198ee424ac498f2ff5099ddc760f5cd58dfc4a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00016.vtp",
+      "size_bytes": 2513897,
+      "sha256": "ad9b70406137f736c3968d3cbeb64be4ceb4feaa54800b51c34e75672ef4db48"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00017.vtp",
+      "size_bytes": 2896707,
+      "sha256": "0b86cf3f0ead6ff30bfea5ff5d0d084288bd132b283431f3955197af54ec12ec"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00018.vtp",
+      "size_bytes": 3996403,
+      "sha256": "2574801aa554a8c25fe4ce5a5142787942f4e7154c7a22dc273d143726c3f84a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00019.vtp",
+      "size_bytes": 2524717,
+      "sha256": "d0acb6da1e84ec4a5df0566c1647a2694f62584cbe5ffdba0db93fa18a8691be"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00020.vtp",
+      "size_bytes": 3595018,
+      "sha256": "844486dcfa73f19da4bf498275db0f087d629d103657dbcaba6fb9be5af0c89d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00021.vtp",
+      "size_bytes": 1978223,
+      "sha256": "29da069857776000eff76872e411fc35b77e9d68ebedffeeb33b59c954e9fe29"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00022.vtp",
+      "size_bytes": 4467417,
+      "sha256": "db308dacc534f218bb3e56229baae580ed4f8bede47667cf34ad7ea83696ec21"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00023.vtp",
+      "size_bytes": 5854389,
+      "sha256": "d9e9291c7819e3701294a0368dcd6678851c4e66585133e6c1d9ea68974943e9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00024.vtp",
+      "size_bytes": 2203019,
+      "sha256": "de7d8dcfc030ad69304db4ad2eca36676bee2a3f9f608108565b6f1be41b2c92"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00025.vtp",
+      "size_bytes": 1139254,
+      "sha256": "f90f1d22fcd9ef4f2746fbf0f288ef21ee002b90cc7641dbc87b3fcaa00a8669"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00026.vtp",
+      "size_bytes": 1874066,
+      "sha256": "af123a575392f8bd2a8f847a52176fd5441fa881b40c2f73e2574dd765b31b2b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00027.vtp",
+      "size_bytes": 613601,
+      "sha256": "5ee628b4b2b2adb7ad2cd41fadf5df622d56f10bc2af380dc42f4ca80add3ed8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00028.vtp",
+      "size_bytes": 4452236,
+      "sha256": "daf598318b91ade6996f863ba7279a27724e586b3f51b9ab6e394bc806a73723"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00029.vtp",
+      "size_bytes": 2142832,
+      "sha256": "82869e9fd19db571738235c14d316baba84137cb80da98dd78013fbf8f7525d2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00030.vtp",
+      "size_bytes": 4404837,
+      "sha256": "64d41afa049bf3e34a7d63ee931d7a096f418ee1fad633d2a3e88b31bc95adee"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00031.vtp",
+      "size_bytes": 4556236,
+      "sha256": "0693f94b58e2d2e67454ffa6cbce8e64cbe50900b2e82fff70be2529efd452d9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00032.vtp",
+      "size_bytes": 1530753,
+      "sha256": "79e32464655c2fe5d3cff312a48966fe12a7f1b5e60b444df7800b090cd5af9a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00033.vtp",
+      "size_bytes": 3291036,
+      "sha256": "733f4c2296b54cf3444a707616e3171b186eba92e4364885173ff914319c49ea"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00034.vtp",
+      "size_bytes": 2757932,
+      "sha256": "d112964b087552869c4cae7ef6416180fb8f997ed42eac46cfe3dde4e9f44ffb"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00035.vtp",
+      "size_bytes": 4322985,
+      "sha256": "ade3cbfefa43e7b5693739732fe3c88136d50ded0b9c47931fb27ebfb7eb86d0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00036.vtp",
+      "size_bytes": 5207383,
+      "sha256": "970f38b01e4de387968798077d923a26b4628878bee08190f37910276888a78c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00037.vtp",
+      "size_bytes": 2737983,
+      "sha256": "2de7fb5bb67553a68e4e5ed15fd53e8e4d8d338fcde33ec9d184e0453a1e8443"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00038.vtp",
+      "size_bytes": 3718449,
+      "sha256": "a8df055a95d9ccdf6d0442af63a686dabd5dff8f540942b8a9ae68bc6c32a392"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00039.vtp",
+      "size_bytes": 1818617,
+      "sha256": "191bfc368ed1809d43fba393e7e3653faf13b5b4c7d78f8044e5e7cd2177690b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00040.vtp",
+      "size_bytes": 4330086,
+      "sha256": "c1f8e652070fdc4ddc63b12fcb9c903060cdf23785e6bb241952beba35cc23c5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00041.vtp",
+      "size_bytes": 3361252,
+      "sha256": "539bbc50f98104dc44684a7b34466f8eaf8dc8f3bc0eaf975051fb65692bfc4e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00042.vtp",
+      "size_bytes": 1688064,
+      "sha256": "025b41c7bd7435e5d8594bbb2c9170772f906964714b1e77bed7155217e09d54"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00043.vtp",
+      "size_bytes": 2529141,
+      "sha256": "788308526d19d43355ccd57cefc194a8601fdbf6467a9fa37f77c5d4d521e710"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00044.vtp",
+      "size_bytes": 6514633,
+      "sha256": "465737671b38256845578eb19b2ff101e9fb1bf8b08a682c0f2e7c7d3fe1a337"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00045.vtp",
+      "size_bytes": 3477337,
+      "sha256": "300c18e35d1133b813523f44897abdca32382a4d11dd17b14cad89345b35beda"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00046.vtp",
+      "size_bytes": 3851430,
+      "sha256": "33ae303b22cac376a48f9c1aa2248392755b9e32d9579efcdccc4c8ae59be86c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00047.vtp",
+      "size_bytes": 1900155,
+      "sha256": "a2d4e02982cc878f0649cfaed9eb1091adf61e45142d3a4c6f60298f53c04733"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00048.vtp",
+      "size_bytes": 1868774,
+      "sha256": "1944b6b5e06bace89532380163a30e09ff7b5ada46173cd450b61d668ecb5ed3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00049.vtp",
+      "size_bytes": 2093034,
+      "sha256": "ad68508fd6b27684064c598e630a5e77e6f9f72b6c583a085a6e62a422fa67d2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00050.vtp",
+      "size_bytes": 3126045,
+      "sha256": "1fe8bc546639a980e0ebe9c1e82c11a6ce29be4b1e109cbfc0f496391053faee"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00051.vtp",
+      "size_bytes": 1428206,
+      "sha256": "e6c88395dab6df543b4348cda806b0831a0c4d9f604a70f0a8500ebfe986df5c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00052.vtp",
+      "size_bytes": 3169224,
+      "sha256": "6edf31cfba5b51660f3a435fc1e3416c89fed2aee9b7e2132ac2d2f768c43a31"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00053.vtp",
+      "size_bytes": 1907848,
+      "sha256": "85cc40c558e32f293ce802376e1b77cdf5d2a5a8e37e66f4b5c568c93c8111e8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00054.vtp",
+      "size_bytes": 2467027,
+      "sha256": "d539a70eeed0fcbd6f83d25b329a8de2086ad155288e75d5927f0c50ad971a14"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00055.vtp",
+      "size_bytes": 6470680,
+      "sha256": "859f6f057e26c6aa8e23e11dee22df42308dc109c1682444829db307aa725a4f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00056.vtp",
+      "size_bytes": 3374410,
+      "sha256": "d125d1302fa42bcd03ea681083b52f2bd95b9fe188d3b2e5a6bd771cb7511047"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00057.vtp",
+      "size_bytes": 1367381,
+      "sha256": "e550bfbc04071bd31e03bb01ffaf9f6b448376633ad0364693ebdbc5d1b2ce74"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00058.vtp",
+      "size_bytes": 3943278,
+      "sha256": "cc344aeb6f371de1f93995a22bf9d133d30cf2c156443318931684cefc4b9387"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00059.vtp",
+      "size_bytes": 2272482,
+      "sha256": "85ba6274f05dd95e655433034e9ba1663f0402ba5d4828eea207371754f9964b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00060.vtp",
+      "size_bytes": 4552701,
+      "sha256": "5f3d371c31286880eae8259ef3f0eb054b8543727ba0dc4f542840648ca3b314"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00061.vtp",
+      "size_bytes": 2594297,
+      "sha256": "5a17456f0958e6f89e0cc7ffad6034ccf65ffeb4c70631480e883febd9e7aa3f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00062.vtp",
+      "size_bytes": 1887265,
+      "sha256": "e78412f23bdf1a9f9b0daf1389bf55b0ffa8668131956a92b411d7b7edf6b91f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00063.vtp",
+      "size_bytes": 3619648,
+      "sha256": "58e0d7944f751962d39475f12a1a4bf3d7855ee90c1e05e48fc6a5ed85d941d7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00064.vtp",
+      "size_bytes": 3665158,
+      "sha256": "90779508fefd78f55baef0088345eb01f4854df920c5e59b65882f6511d8ef5e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00065.vtp",
+      "size_bytes": 4715217,
+      "sha256": "93218a1535e848954a37bab3c82b3d34f43e77a4e2358ff68eecf01d6896632c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00066.vtp",
+      "size_bytes": 1836964,
+      "sha256": "7e0675b12b4def84ddc4d4d845afb8647c026534f2d6c42726bdbed98e11c86b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00067.vtp",
+      "size_bytes": 3787152,
+      "sha256": "7836f9d2a0a10d15f41cdbfefa77e9a3b7b6134919ef0c3b876a7238c9a0bed6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00068.vtp",
+      "size_bytes": 2147521,
+      "sha256": "5d695fab0b07a9648ce3eeb335e7adcb3280c006e4177a20742dd4ca429cb365"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00069.vtp",
+      "size_bytes": 2151584,
+      "sha256": "0a2c0fc739f18f9c85548c2b352caa7f63aaa93b3b66f868fb70ad79a92e9d83"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00070.vtp",
+      "size_bytes": 2279722,
+      "sha256": "a9c8a5f8ebc07837611fcf849d92ba82359df3c29c4287721031f0e0959300b0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00071.vtp",
+      "size_bytes": 6989659,
+      "sha256": "2161daca9f0ee316151fd3e2e6d17e2adb2452fd4d4b36370ba5311264a90bb4"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00072.vtp",
+      "size_bytes": 4935029,
+      "sha256": "b0a51e3b07e6d5949ca25ee93a3711c92fec0aa9abdfc2a408cb6df8ac62c307"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00073.vtp",
+      "size_bytes": 6361774,
+      "sha256": "a9dc103b3e967e859229dafd1c902530ba6333f1766b9a10bc8db96c2e3c2827"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00074.vtp",
+      "size_bytes": 3066290,
+      "sha256": "4189b50a5cbfd48e6827ea1277e8c55e8c6f8005b7ba0309eae86a12ce50cf61"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00075.vtp",
+      "size_bytes": 4918615,
+      "sha256": "41a1707920248c993d309ace1e9719238a5e380e58959795342525702ffb9648"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00076.vtp",
+      "size_bytes": 3088868,
+      "sha256": "494cbd2ee55a15ae333a2cb4aaddcd7eec51932bcb426eec70757a9d76daf9c7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00077.vtp",
+      "size_bytes": 1652408,
+      "sha256": "df38d90e6edbc09e8572a45936680256bd6bc10dd97e7f166e72b6055cf8c992"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00078.vtp",
+      "size_bytes": 3123834,
+      "sha256": "cb9ae83bae401625047fe6a80a1de6bf9fc72422165d3d43fd701a03d0bcac7a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00079.vtp",
+      "size_bytes": 2235184,
+      "sha256": "0402cfa556c1539b959a1d2fb697771734b2165703622cc85dd7aaf0bafd950a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00080.vtp",
+      "size_bytes": 3755223,
+      "sha256": "b948dee9e0e644013db167f195d198cd01fba8eb0857da135cbcb40f918d8255"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00081.vtp",
+      "size_bytes": 4342087,
+      "sha256": "45ff13d06407f6593df701b2f732e6a51535eb25ed49aa52163ffab898d76d1b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00082.vtp",
+      "size_bytes": 4007680,
+      "sha256": "226ae653402a0aab522e9a1208ea4c73afda04c1252a09471e95e597f4cb2311"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00083.vtp",
+      "size_bytes": 2703109,
+      "sha256": "21eea72a081015aabbbd0bad3af85e4853d8b03846b73ee7719d0f52b843174d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00084.vtp",
+      "size_bytes": 3160880,
+      "sha256": "e398963de24e381c7f9fbe5c9f40cf894484beef2af44d4b5505561af3cbc39b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00085.vtp",
+      "size_bytes": 2689012,
+      "sha256": "1a9f10340414610ab8a45b377c97cba69b99c3c6907189b3d34bcadd7b75180f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00086.vtp",
+      "size_bytes": 1854699,
+      "sha256": "410d3ba5dc845155987144d4f569d54e7badd94c16e746b9b4a684ab0000d3b2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00087.vtp",
+      "size_bytes": 2232319,
+      "sha256": "77d06131b18876feb6de72cb64a64be1dedc85485fb424bfb1757365c0e3d4c5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00088.vtp",
+      "size_bytes": 3033527,
+      "sha256": "49bc736b02ee51491f5d806941eafa1256015a1623c1e7cb1e5e8990f9077b35"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00089.vtp",
+      "size_bytes": 1485489,
+      "sha256": "f7d83c8c4a1386d0afff6eac5e5a474bc104fe5ebc4df240e8cdb258dcdf34d5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00090.vtp",
+      "size_bytes": 3019003,
+      "sha256": "a1c81aba384763ab0cb117af8597bec7a6d619955ea3089381758b9ad45d7f22"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00091.vtp",
+      "size_bytes": 1994776,
+      "sha256": "1b7cbbffe66faec394b5e02de281299450483e44d6e42476e13e6f726823a615"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00092.vtp",
+      "size_bytes": 2883824,
+      "sha256": "cac3a9bb406e579075a3c4a88e209e64dd2ad4e5067e43dc5df94ec51f8f0775"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00093.vtp",
+      "size_bytes": 7095207,
+      "sha256": "95ca3f02e18ac28c0d8d022662efc186cc90d608fed141be70135508df5ffd08"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00094.vtp",
+      "size_bytes": 2741846,
+      "sha256": "7e2ad360cd977a496c953d5a4070f0c2723df0c4f9418897ccc7faf50529c139"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00095.vtp",
+      "size_bytes": 3085595,
+      "sha256": "17591afa5fd3ac85fe39238e9316b741e34f0af1ef59ff0f9f88aef557df5213"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00096.vtp",
+      "size_bytes": 2396478,
+      "sha256": "a12cc2b0f33fa56473678807c72939629873376295a473f7c10dccbc2f43ac84"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00097.vtp",
+      "size_bytes": 6836803,
+      "sha256": "6f38719d27634b00598655238230bcdb6878a31845816123640a91775bfc4876"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00098.vtp",
+      "size_bytes": 3482637,
+      "sha256": "4b3ecf4c99fc82b90ba6db0b9822e60497862dbfa732695d3ac928acd3596f57"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00099.vtp",
+      "size_bytes": 3459499,
+      "sha256": "f0f751a64d64f7c73032aa783f4d0485fbc9870b2194072bffb13d79e7045e3b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00100.vtp",
+      "size_bytes": 2181383,
+      "sha256": "db3dfbc97f7a6ca9b3783f13f9e3262ceb3549e8963c8e8f387767445307bc13"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00101.vtp",
+      "size_bytes": 3401582,
+      "sha256": "a25326fbd1a386d38ffdb3b58ae59d3b9c8b198419aae613bde37ab3bc077507"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00102.vtp",
+      "size_bytes": 9524768,
+      "sha256": "fd51feb20cb84ab5f354308b2aa7fdc2188c8c2c33fdfa727a43e2d7333074c6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00103.vtp",
+      "size_bytes": 4943579,
+      "sha256": "c7590985011562e694b59f1d3d1aedd255fac5f96cb4ce01813b9d925080342a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00104.vtp",
+      "size_bytes": 3021735,
+      "sha256": "2af85b3769a6e71d4891846f5634de7419f70a14bcef7bf591f2eceff1402539"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00105.vtp",
+      "size_bytes": 6235584,
+      "sha256": "407067066b60a7118884f9bc2c2972912754f48e3ac3df56faa613e307eb6605"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00106.vtp",
+      "size_bytes": 4161100,
+      "sha256": "476f61fcd3d8876d6fe297b528cfb87a81001c2f2f869a4e6553bc3a30fa104b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00107.vtp",
+      "size_bytes": 5038901,
+      "sha256": "30ab96f76f46b0cde3effa38c45ab92dbc0b43b1537ae52403a21f6f1ecc0ba5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00108.vtp",
+      "size_bytes": 4070039,
+      "sha256": "e22ed2bb8274f451d5720b308e77bce9c92d56e6ac6c9cedb5a0568d6d9866e4"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00109.vtp",
+      "size_bytes": 3854441,
+      "sha256": "8ca253cff7af355b63cf36162793744aca71b3c713b27b4c408a4029a5dba9a8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00110.vtp",
+      "size_bytes": 8211377,
+      "sha256": "df93cb5847195e02fa0d360d6582697cc2c1178e37738c0854411295b22d18e7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00111.vtp",
+      "size_bytes": 4117373,
+      "sha256": "5e8fc1c11f77afd32a59f390195c83242279f2d1abc2204b6725b32060e7c4ec"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00112.vtp",
+      "size_bytes": 7383436,
+      "sha256": "4fb8804d03a3042ead3d0bf4f17334ad86befcb086bdb04820f739fbf0e64ec9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00113.vtp",
+      "size_bytes": 3943658,
+      "sha256": "198a7febe6413ca8241ddcd192c91550fcdd54b55fa4f141efadde91dde542c9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00114.vtp",
+      "size_bytes": 1421761,
+      "sha256": "46cc87e3288eefdd0cd4afc65e1a69e9ff7ab919f84ad0ea694e546247f96216"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00115.vtp",
+      "size_bytes": 4835045,
+      "sha256": "ee95681c3a877254d14f91fdc0e3a629e9fcf084644a7c1298cb6d076e227593"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00116.vtp",
+      "size_bytes": 4818960,
+      "sha256": "611041c261c0df99c32d0e7ed75cc325b6c4d430b621dde80e1003d74ff11a4c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00117.vtp",
+      "size_bytes": 4136720,
+      "sha256": "e705110635b29199d0645b4ec08bd9d5358deef58bff9c636f80c387f429b167"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00118.vtp",
+      "size_bytes": 5196641,
+      "sha256": "8744a23a5478d87e711ce3bbae1024f2c6892254c80f4653685d40e91c7b73bb"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00119.vtp",
+      "size_bytes": 2655444,
+      "sha256": "8f8d207cd817f3c3a8e54cb198a78f7e794fd9bdbe29a6036e0b721d81ae4eba"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00120.vtp",
+      "size_bytes": 5727589,
+      "sha256": "d1afd34edddc20816de1c6a1814d95a1c4c0f636966bc928e96c8078edf1088a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00121.vtp",
+      "size_bytes": 3639844,
+      "sha256": "1163d2330f5f013be6e1de1e92b98aa6947a8617f77b9de26664ec73e9ced750"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00122.vtp",
+      "size_bytes": 4480157,
+      "sha256": "4c8c1035f05f2315f2979ac2b3e1216ed15c2cd043a290efd53979c45266e1a9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00123.vtp",
+      "size_bytes": 4556403,
+      "sha256": "503b9d812784cb536b1de42174dd0bad53bbd47cbbbc1eda70bca45719ea71a7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00124.vtp",
+      "size_bytes": 3102518,
+      "sha256": "9f7582921246b224449a040294b3fa904f481ce9c95040406847515734061dec"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00125.vtp",
+      "size_bytes": 4740963,
+      "sha256": "3f51ce72238fa51524d54e3ad470aaea7379b99fbfffe725ff835fd667326273"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00126.vtp",
+      "size_bytes": 2174893,
+      "sha256": "6807a19771774b77ff9db48bd730879cd59f3ce3dce8d5a9636e1e462b733e95"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00127.vtp",
+      "size_bytes": 2524180,
+      "sha256": "ca825e846ab50a33017a74ae0074676763d4d89257fb3762fa64d959a5c6816b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00128.vtp",
+      "size_bytes": 6365332,
+      "sha256": "b6f8953db0da81341e7caf264b213743e1533c0e992847f797eb8897e55ce7f1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00129.vtp",
+      "size_bytes": 4853212,
+      "sha256": "250771404fa6266df1522f0a50817127081e0c57a4bfe394ccfd39c7e1610833"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00130.vtp",
+      "size_bytes": 6228693,
+      "sha256": "cb663d5e9f0f51e80189bafab461eb7e391233d6904de93142651b92731ce186"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00131.vtp",
+      "size_bytes": 15961820,
+      "sha256": "01249233bf4ea4ff9ca3fe1bda03896e3e2afb93b7c7119d0ac0b0f157687f91"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00132.vtp",
+      "size_bytes": 3418301,
+      "sha256": "25927bd8d95104d0a06d09076586537dc7d8b05a0fde03f22106882c888581ec"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00133.vtp",
+      "size_bytes": 5930321,
+      "sha256": "ff6115abb645179041fc771401def7394b330d9d52d4816b409371a01f9c7159"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00134.vtp",
+      "size_bytes": 6281156,
+      "sha256": "e63bc5ef736b37fd430602b168444444bc09857415eebb57459e0859ed324081"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00135.vtp",
+      "size_bytes": 5340451,
+      "sha256": "9fe777de92e860662639f18843a9ea19e8b6e32c94d7ff7a37c2bf124f6531ce"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00136.vtp",
+      "size_bytes": 4085636,
+      "sha256": "5ab7dfa14501346778e3302bb328a0310e689ddafe0c36e1dfd43302e35c34be"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00137.vtp",
+      "size_bytes": 5055150,
+      "sha256": "6bb99f8d04051b390cab5342409cb2f17c64fa433520aca0483e63842a65d0ad"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00138.vtp",
+      "size_bytes": 4975856,
+      "sha256": "4587014e76dcbb12c7ed5c2ad85720dcc4aeee219178d5e93bb809d16fa046e8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00139.vtp",
+      "size_bytes": 7639857,
+      "sha256": "5ccee28d3f7d93006d4310e607384b95f7966b7cc066aa34c65cd1fe9574d502"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00140.vtp",
+      "size_bytes": 2050487,
+      "sha256": "5eb12318f966fa0ac6c3e8cda018e8d5d52a0965d0b1a813b797e033bdfa4758"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00141.vtp",
+      "size_bytes": 8942487,
+      "sha256": "dcde4eb3c873b798b7101b8c4b8cd0eb9f86424f96ef21af495a9cb3cc8bab72"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00142.vtp",
+      "size_bytes": 5956543,
+      "sha256": "9436375f3bc9cff914e8d6e2d0d75d2d851e863dbcaa0862c724595c88bb7626"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00143.vtp",
+      "size_bytes": 3764856,
+      "sha256": "b6bcc55b819523fdb4e423e7d555559fe3405b60580f3e63b3ee0db53066939f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00144.vtp",
+      "size_bytes": 3725648,
+      "sha256": "196d34ffdecdee4773123e177d22c9f29dea60183ea7aeb6d2ae36cb6342d0f6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00145.vtp",
+      "size_bytes": 4778040,
+      "sha256": "204a64bef887f8ae7d81b1b5cdb40a4e09693d3c5957ead1449c0994abafd708"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00146.vtp",
+      "size_bytes": 3631636,
+      "sha256": "e0ac318ffa483db521ecc3c87642e65fb60ecf55dcdea1a176d2e06c8350f1ec"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00147.vtp",
+      "size_bytes": 6966309,
+      "sha256": "6e49c342f373206a048ee5b016c75eb9020e981116e8fbcac8b94413ce0c8b7f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00148.vtp",
+      "size_bytes": 5587668,
+      "sha256": "dfe49b1b01a398e977c486eea12dd47621458796fb49e1f8513196b9d49afffd"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00149.vtp",
+      "size_bytes": 7009678,
+      "sha256": "a169ab3bb22d2b288e7aeef6b101322e2706f56ea60522c7490306dc498e6dd1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00150.vtp",
+      "size_bytes": 7014732,
+      "sha256": "f6105ee42aa053034f9c44702c110845c81f0024915478a9dadc7a2f0b5389f2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00151.vtp",
+      "size_bytes": 6533036,
+      "sha256": "5bddd2a7fed10798ff6719d2033a9359cdeb5204fe5fc3c901dad6f60f3405cb"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00152.vtp",
+      "size_bytes": 4894909,
+      "sha256": "5033f6b1b19a06b78defef902f01e398d382cd6bf770f2d429c430a5ee8593ba"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00153.vtp",
+      "size_bytes": 6056516,
+      "sha256": "2d6675cf0aac1338156cf370f59ae0011e6bdb2ba9437beab4744501ca4cb805"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00154.vtp",
+      "size_bytes": 6484769,
+      "sha256": "a3669322d8729e02ff1b8a1ca60f7e991c9850aee214884d6f9f3a5483e80a61"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00155.vtp",
+      "size_bytes": 5332064,
+      "sha256": "a4914141312a91bfcf1f274a85cfc674d137d6c4359dfa490c956b21ea2f4b5a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00156.vtp",
+      "size_bytes": 7897709,
+      "sha256": "fb3ff472ec9e537a020df0334d7f79ea822a933c9642be219e74c446cfbef11e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00157.vtp",
+      "size_bytes": 3398952,
+      "sha256": "d7e4ec57a774cb8bf48738773b6e35e5baa4668cca88a6b2bdea793c8cda8ec5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00158.vtp",
+      "size_bytes": 4478525,
+      "sha256": "f641777e69a80fcf808085ff696aa3c5cc344a3a8994a502c6981d273f08a09a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00159.vtp",
+      "size_bytes": 5899868,
+      "sha256": "b4a992b762ffd86f478c374b892f74cdea0522152405f57ef4d775d12bbeafbf"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00160.vtp",
+      "size_bytes": 3102626,
+      "sha256": "a7a368a74762b77f6c7236116d9ea6efe209e9253773504a35ea76afa7fe6256"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00161.vtp",
+      "size_bytes": 2214418,
+      "sha256": "3989c3293a2e6d7ef11277db15495c1a519cec841ea8d3c2e15edc4188f1990e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00162.vtp",
+      "size_bytes": 6001715,
+      "sha256": "5c850a3025f77b7f5e48dc36627153d5094fe1e673e059bb5678a2b9982e8345"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00163.vtp",
+      "size_bytes": 4483154,
+      "sha256": "12353386fd4ef119f455ab541818df515e9b35691d50a6ef331a9478cbef39f3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00164.vtp",
+      "size_bytes": 7339575,
+      "sha256": "33fc922a1fc50f813188595a62faf367f5dac0296fc96b1608a99d2326a78dd6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00165.vtp",
+      "size_bytes": 8734162,
+      "sha256": "c32934e057a347e14d86dafa056e114b96f9695b6ff975c01a5fa045b5740893"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00166.vtp",
+      "size_bytes": 3239758,
+      "sha256": "574246bc1765307b05ea26dad6e6b2b2e5ff85ebc8788f337115deb0d25477b8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00167.vtp",
+      "size_bytes": 2795586,
+      "sha256": "2a2cf3bc1e02536adc8e343360049afa0b6d5806fd6d17e57b90ddc218c7011d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00168.vtp",
+      "size_bytes": 5609974,
+      "sha256": "e9bb30941300752967a761c21b8ecd898201ee789d7e82659214f6d1f6d9523c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00169.vtp",
+      "size_bytes": 6187314,
+      "sha256": "f2897fe2b432f37d39f6ba3d8b9bb74b338e047bf4b82257b057da1e88e4d099"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00170.vtp",
+      "size_bytes": 3887080,
+      "sha256": "3a056cb814cf6c1e86e01756e3f984eaf56fd4c83da1677db5142388f914e482"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00171.vtp",
+      "size_bytes": 6530512,
+      "sha256": "20c5eba9ea753f90b496119562bf2a0d4db55a4458eff304229159c0f600845d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00172.vtp",
+      "size_bytes": 3029259,
+      "sha256": "69ece292e4fde658b5aa7058374be21f6ad4715536f4c4e21b88a4ff13e62592"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00173.vtp",
+      "size_bytes": 3835813,
+      "sha256": "13bc94fa45d7e9d42dd468cdf09afa9558f41f7d4dca9222cbd2b3c4e69feada"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00174.vtp",
+      "size_bytes": 4423793,
+      "sha256": "1e91ba76c706d16b4da263039d5156d07d2498b0f62f182fa64869fd4409ba02"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00175.vtp",
+      "size_bytes": 5570880,
+      "sha256": "9dfc2f71555025cd4e4b1c1c67995317b15a7b5d97786bbc5b12be6460229f7d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00176.vtp",
+      "size_bytes": 5995715,
+      "sha256": "8e768d386fcf3b5f5a6ec9c77b6e13da377e65f6f0f50b0d15811ee19ac21f30"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00177.vtp",
+      "size_bytes": 4651660,
+      "sha256": "a8b28c346eee4bb5e64fdfa83cc449ccbcae58fd7d71dce087431034ef3ea64b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00178.vtp",
+      "size_bytes": 8481741,
+      "sha256": "a3b18507431113e4c97d955088d8a7a938f68a56fc3ceb55434c58abb2e90a0f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00179.vtp",
+      "size_bytes": 5622436,
+      "sha256": "6e56463beffe306740ee232a1bc465d0f4d8029bbcf8ebe557c6ed62172deb03"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00180.vtp",
+      "size_bytes": 5928238,
+      "sha256": "9b70f3e54786624818525d3147a8f8d5aa93fa1ec48a298adeaf642189f7353a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00181.vtp",
+      "size_bytes": 1034614,
+      "sha256": "5f695e4cff95c8812e2d51a7ffcaf3b49fc0a27cc34cd48e07a614cebac7bcea"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00182.vtp",
+      "size_bytes": 1309586,
+      "sha256": "10c3df5a11ac555c3aa442dd4ac92af6e187582ce33d33761c549c0cc5815986"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00183.vtp",
+      "size_bytes": 3685082,
+      "sha256": "98b5cf535f34e880381cecb6efe6a3d87c060b1de607c314ae74563f360a3dc8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00184.vtp",
+      "size_bytes": 3579084,
+      "sha256": "2a6e6bb7965273905341dc7d6de36ff2bc00bb7a2fffa34c17b6c6e0ba60fd53"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00185.vtp",
+      "size_bytes": 3858623,
+      "sha256": "a6b72f1be09c13ebb8399f1de0dcdd5ed8a9edbc2cda6b6fc960eb08a0d8daf6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00186.vtp",
+      "size_bytes": 8792188,
+      "sha256": "265b696e91b143c4d5220155b3205bf3613cf2731ac3887490c48870a521843d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00187.vtp",
+      "size_bytes": 6801349,
+      "sha256": "c582508ca282e239d7a79ecb9e4753a8c8f411d9c48a06e2edf4d8fa9eefa8a6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00188.vtp",
+      "size_bytes": 6007739,
+      "sha256": "c887991e7e5f547891baaae8441ef0d9ffd5a2965977ea247262a61a2e8ea773"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00189.vtp",
+      "size_bytes": 5242870,
+      "sha256": "70bba97f4e9d9adbcd358648defd5d751e1a31b3ea391d00d932173dfa502f6e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00190.vtp",
+      "size_bytes": 6674496,
+      "sha256": "202b7d03d259b0d6f792a4d88fc1ad156e48371d93586eb84ab01d21cfbadfbd"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00191.vtp",
+      "size_bytes": 6357418,
+      "sha256": "b5ee88eff5cc3054904adab2c96ae9c94d55a8e425044a273ca07fc92e15c674"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00192.vtp",
+      "size_bytes": 6064122,
+      "sha256": "47362b69f5ad05aff7601055aa1561724d72a258459d7b6f8c557f383f3297d7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00193.vtp",
+      "size_bytes": 7242589,
+      "sha256": "5a9364ded6e1f587beebdc66503d5631698b5f169bec74767b37666c53dc90b2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00194.vtp",
+      "size_bytes": 3162695,
+      "sha256": "fdfc807345d7ca49376d1f80c62d8585cc2ca7f382fef785d86a24abf610c7d1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00195.vtp",
+      "size_bytes": 10404112,
+      "sha256": "382055e9abb0cf4e150f4c42f99203ea74a7c14b85c24f819d1529afe1e0b510"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00196.vtp",
+      "size_bytes": 5993404,
+      "sha256": "08e27c6b8695cb9328df15f6b428582473179a9a415c0fbf8a2bf7196274b5e0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00197.vtp",
+      "size_bytes": 7364885,
+      "sha256": "ded776a65b34a0bbfcf3b5319d031fb09881bacb51df266cf2bebcbf2f929cf3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00198.vtp",
+      "size_bytes": 5678299,
+      "sha256": "fcbc4c26468a740240d404778d11577c02aba28d1de551a0ac90666145125afe"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00199.vtp",
+      "size_bytes": 5245876,
+      "sha256": "71a1d267a801f34bc2f0e45f5e7cb51d51ac828cdb1b7a9d2d7b42831b6f7f89"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00200.vtp",
+      "size_bytes": 8406087,
+      "sha256": "bfb968ef76d395e8af6ce240148fd938507876c3079ab42b895c6ee5fbab7d1f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00201.vtp",
+      "size_bytes": 6967676,
+      "sha256": "1a321e9e3a58bb45e3bf3d8e44188537f7deeda6e795be00cdeddca5a2a9105d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00202.vtp",
+      "size_bytes": 3572529,
+      "sha256": "0274d4d5a25bbfa30712385443877195dd9e140fe75bb78113ec9e8c7b59d2fe"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00203.vtp",
+      "size_bytes": 5262225,
+      "sha256": "a0e223c56b689efd7fed743b39d05be9a0ba77c9c68e52ad4005b1bc158be29f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00204.vtp",
+      "size_bytes": 5147397,
+      "sha256": "10bcfc558f3ac6659e898c0966b80fde3b3536fa2951db51f0ec60e505f7c5e2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00205.vtp",
+      "size_bytes": 1678746,
+      "sha256": "9d11ed640e4de8fa28e99105e804075f6802a8ca098880ac62948f84e8de0a33"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00206.vtp",
+      "size_bytes": 4951737,
+      "sha256": "dcbe74aa4a43c503ae5ff6a125cf1edd64b85fdab31acf12202ff19d4ddf0d32"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00207.vtp",
+      "size_bytes": 3338028,
+      "sha256": "f6bcdcf31cb084bb5261d6242636bf77aa8515901678cd1ed8d493ae109831f7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00208.vtp",
+      "size_bytes": 2965922,
+      "sha256": "57d5bb25cf982911e828196f539812d2b78937d4704296c6081eac1349a639ef"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00209.vtp",
+      "size_bytes": 7312679,
+      "sha256": "35082d1941ab85e81ac22b0962feb5a734d0d07c242c462c1f6c33d1013d102a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00210.vtp",
+      "size_bytes": 4858768,
+      "sha256": "31dc046645885bc62445e08388ece688cb12e6a431c877d656c37c04739a3dac"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00211.vtp",
+      "size_bytes": 5860852,
+      "sha256": "678628716ee2911fbc05d1ee18627e0b4397104494583de9d5146b1cd26cc6dd"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00212.vtp",
+      "size_bytes": 6333928,
+      "sha256": "c81530a31296fe636783ce2b5bc2d76322a7171a6379c3e6ee677419431bf625"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00213.vtp",
+      "size_bytes": 2794786,
+      "sha256": "9ad5163be764f04ac767d2a3a52729e58c70535fc8f43787be7542176af29e8d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00214.vtp",
+      "size_bytes": 5918196,
+      "sha256": "a863d4e8ed59435524bf4d8163a825077cbd5722f7109d1d9800654a9d601a16"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00215.vtp",
+      "size_bytes": 7802060,
+      "sha256": "4bb67969a10533cf0721864efdc729b96de2a97e089d001e5715c905d57c8513"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00216.vtp",
+      "size_bytes": 3132404,
+      "sha256": "052f89f2711214707b401125144bcb6661f7727f8232cfb65ed8edf8e09f212a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00217.vtp",
+      "size_bytes": 7416596,
+      "sha256": "a9714e5528b86f9cda46969aaeff5a348b76ecec17782552223c1b288308acf8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00218.vtp",
+      "size_bytes": 3416082,
+      "sha256": "5a21d5df869eb55d9a1fa90cc65088e8c3b027043bd0435a4887de51cc102bc1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00219.vtp",
+      "size_bytes": 5433066,
+      "sha256": "e709e87103a1a3b7e7f950edfb11eaf6dd4faf0236f4239adb6e9d5345d473bd"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00220.vtp",
+      "size_bytes": 14136560,
+      "sha256": "b279d8ebaba12e74fd92ec8b9911e54444ea913a16dcb11643d5fc9f270b4500"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00221.vtp",
+      "size_bytes": 6409409,
+      "sha256": "e9a7f52ba40238f180fa9c040c749bdad9d88e5069ad68048c8ba4f53181a640"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00222.vtp",
+      "size_bytes": 3653396,
+      "sha256": "8e401f96e4b3aa97c57d324ace4ca1821e55281bed55051263dfd6e18dc03017"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00223.vtp",
+      "size_bytes": 5059962,
+      "sha256": "0f7331b8dff65fbc680e30091cbf53074ee9ed8745373343c345c4dbc91f1cb6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00224.vtp",
+      "size_bytes": 6543050,
+      "sha256": "fb207c3b7388dbaeca0711937aa46945c93fe50fd6791cc8d656880ef8075a18"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00225.vtp",
+      "size_bytes": 8103841,
+      "sha256": "7034b5e046932628b6ccf80fa910ce4f3776c00c74f1f172502213db005e9b93"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00226.vtp",
+      "size_bytes": 5288480,
+      "sha256": "b70330f4aa6eace3bbdcf35c4ced34358aa62173b91efa62d6ecd4ebe164038d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00227.vtp",
+      "size_bytes": 5407852,
+      "sha256": "cf4a134685e1bb998d7044ad88f67d27e56c9177b16839b22abb730ef53ca3c2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00228.vtp",
+      "size_bytes": 4491832,
+      "sha256": "e4ca40640c6cb66fc22091fb94092e7c8f61281b5fdb85e1ca5b1fa20f4e9125"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00229.vtp",
+      "size_bytes": 5812014,
+      "sha256": "d9611b2b0fd5ef97240472428c6a544cc5a45ca4ed724a1d22573480f2a5c5fa"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00230.vtp",
+      "size_bytes": 5924521,
+      "sha256": "377cac9a33eb2cd33625c95d28ef9c81e17c7d881add8cea7579ffdbc20bd24b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00231.vtp",
+      "size_bytes": 3817973,
+      "sha256": "9ca4bb941707df9b4067b8850e2edf29164c943020238b900fd4f2ed5cdeb549"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00232.vtp",
+      "size_bytes": 6170564,
+      "sha256": "f2bb0a5a0806661158f2cdbd762a9c7f93b108ae2be909af8e9c6fc717f505f6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00233.vtp",
+      "size_bytes": 5090927,
+      "sha256": "f37413ef5e6e0232b1ef851d8b862e203959ecd66374604ebee2dd988e6a053f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00234.vtp",
+      "size_bytes": 3702774,
+      "sha256": "d35a70b571e01c31f5a2ad92ad7f4cf8f7b8e24c37a9f20485b2622e7c925e34"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00235.vtp",
+      "size_bytes": 5395948,
+      "sha256": "3df1ed3701395132be26d78a395c336b62429d1e95ea7b6253f3ad903b1a3989"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00236.vtp",
+      "size_bytes": 6996682,
+      "sha256": "5cad5c8d44f2ca2ab08e38e0c0f5cf23cd18709a69f90f868484b52a6927b7ee"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00237.vtp",
+      "size_bytes": 4071592,
+      "sha256": "5436533cb13c348f69d42ccfc1348da7658e386340b9a8000fd070c0e8649b05"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00238.vtp",
+      "size_bytes": 5240646,
+      "sha256": "a63a92d990ee340f6f8c439413d4c1d81887dc667a3ac942e6ca5ce70fa0bca3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00239.vtp",
+      "size_bytes": 7161763,
+      "sha256": "aee1082fa4804a42ed906d32f84726e585cd90aa75a46ecde33f4350826dfce3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00240.vtp",
+      "size_bytes": 8811213,
+      "sha256": "e3424d09848b5243f6bd6b74bd74d745f620b0cddc87b5a5e1e6d364b4c3e1d8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00241.vtp",
+      "size_bytes": 15339433,
+      "sha256": "de86ffa7c611008491064426b60e2111dfe8cdd08b0d54edf905605f1e695b59"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00242.vtp",
+      "size_bytes": 4132171,
+      "sha256": "d58c8f0c017dd6e4fd8321ea36e75acbc5076270812ad43482d1bf8e027f7246"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00243.vtp",
+      "size_bytes": 12227849,
+      "sha256": "39326d67460657eaefd62039909a6b279ad068419b36cc158581813e26cfc98d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00244.vtp",
+      "size_bytes": 5313563,
+      "sha256": "909bf0be08306c9b33be461c0c29e134e702cb39accb19ee3ac7f8b05cbb0f61"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00245.vtp",
+      "size_bytes": 3274059,
+      "sha256": "593722b78346f93fc8848c7912fe075aea08026d2e8c9b61ca361d703f5ac31f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00246.vtp",
+      "size_bytes": 2510016,
+      "sha256": "b4d5d3ba5e799d9a87193b6e0d7561d545d7fa1136c51a9e9defec5f7dc991b7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00247.vtp",
+      "size_bytes": 7126800,
+      "sha256": "9cad3eb6e538b9588f7ddf2718ce8dad72ee9005fe8c89a68c1c34dce514eaa7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00248.vtp",
+      "size_bytes": 7555047,
+      "sha256": "0c75a8da90814277b93ae3eec9f0c803e3e32bcfb0455c601014b33b55e443c1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00249.vtp",
+      "size_bytes": 7299012,
+      "sha256": "884c3effc4834128c8d72553eefc3a0e53302ca4cfd86e4a8826caf91eca69e2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00250.vtp",
+      "size_bytes": 1715938,
+      "sha256": "3975edf59db02f61f172150e4b5cb1f3f9f9128fc5ba7251ebdb0dc5ae4c7529"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00251.vtp",
+      "size_bytes": 6350803,
+      "sha256": "fd3a47a32c755a2d94d3ba053215e66605c400835e31dbf83d567840e8abbe08"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00252.vtp",
+      "size_bytes": 9499832,
+      "sha256": "5d920f85f41ee0e66c0ed0ed2af71075239c4530392663e929389e323517e5b9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00253.vtp",
+      "size_bytes": 9283424,
+      "sha256": "969d924f9adfc77a5a3c9d8c7a90244bddb7bdd82bc6fb79a88c1eb17b85f2ce"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00254.vtp",
+      "size_bytes": 5154156,
+      "sha256": "d4a8764a92013e0a7e12a48cfaa52a4071f65a07a7e5df2e421a37e80987e9be"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00255.vtp",
+      "size_bytes": 7557890,
+      "sha256": "3f85be5e581c7560747e187c36357e2081cc4a6bf3a7a87497858b4a3ee965c3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00256.vtp",
+      "size_bytes": 5722250,
+      "sha256": "2f6d5328f1d2f8d89b32f256ac74e67432a883e30b50fd47a36cff74d0b6302a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00257.vtp",
+      "size_bytes": 4106673,
+      "sha256": "3654923995f3374abfe72d0976dc87c9600521ba6448eb113471158a76c8734d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00258.vtp",
+      "size_bytes": 4485999,
+      "sha256": "0916a6396754497e30b747ebc01c1220f0f57468c89fd99c023bad89d589667a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00259.vtp",
+      "size_bytes": 3291687,
+      "sha256": "578bf5fbfa9817e8b4d0c783a7cf2f0be7b9bad6fb22ddc1a72eb2b4573491ec"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00260.vtp",
+      "size_bytes": 3505672,
+      "sha256": "8269eba398c2118ea149561dce96c59f4d3228c8545288927c059dcc484aacb5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00261.vtp",
+      "size_bytes": 5752603,
+      "sha256": "368fe2318113cac0e84bee91dc5ade1405ffc7aa4da61cf579afcd411ba53481"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00262.vtp",
+      "size_bytes": 2630472,
+      "sha256": "4888145eac7cc170141a74c5075ce0dc961b2d92a5e55121bdb450586868aecd"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00263.vtp",
+      "size_bytes": 4203519,
+      "sha256": "3bc2357755a7046ca8264ff6203ef08da2b38d058bbbc4f013c7733a13fd9d27"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00264.vtp",
+      "size_bytes": 7176095,
+      "sha256": "480216129036a10e3ce0b05e143e0617b17d9998e4be23d1eb8d5faa96999b52"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00265.vtp",
+      "size_bytes": 11810511,
+      "sha256": "1b525ca03fc73caab3e56743422c62f84fd61fe2627ca7b63a9f588fe05818ac"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00266.vtp",
+      "size_bytes": 5132248,
+      "sha256": "0dfc460e7004379e1eedf2fe39dd56044847ca570ed3bfde66ad69824b8fd2e2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00267.vtp",
+      "size_bytes": 2573105,
+      "sha256": "8650ec72c320a61160a74844906303ebf8fc637bf197dec29fbe3737708b3b92"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00268.vtp",
+      "size_bytes": 4456307,
+      "sha256": "dcdd7d5bbeaf91ae4d8d5690fc65b902f2292f35d3222ae7c134b681a79d9d3e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00269.vtp",
+      "size_bytes": 4080591,
+      "sha256": "5d09be519e32bb33c2c0a8a7eada96bd5749f404f9e99804a05fc854155a7de1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00270.vtp",
+      "size_bytes": 2852880,
+      "sha256": "f1743336fb34cf1229d4ab161c1767b8dae01e92617ce37d05ece048a2196f3b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00271.vtp",
+      "size_bytes": 4293726,
+      "sha256": "41fb538d15d86082bd5bce7b9f86f1d4d65bb256c0cfbb00148c6da430318d2f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00272.vtp",
+      "size_bytes": 2121159,
+      "sha256": "637f48a5b07014bee7b7828f54a93fe75fdbee75a05af579eee36f0db1d20c05"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00273.vtp",
+      "size_bytes": 3048703,
+      "sha256": "9c899a146424702c66a1388b884555ac1532b9716acd03616b6b78ef5446fd2b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00274.vtp",
+      "size_bytes": 3034891,
+      "sha256": "26e04b42c2446fe81bbeac5e82e50c58ca92843adc775aeba1346ea864ba22f5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00275.vtp",
+      "size_bytes": 5331882,
+      "sha256": "7e97a1f2446326ffb89154980cc808913a4b198c77af9007928658d2a102b585"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00276.vtp",
+      "size_bytes": 5196488,
+      "sha256": "ed5c66c8bafccfd70ff160923d57c5905ee965afe821b2c7c391e9218bd83aeb"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00277.vtp",
+      "size_bytes": 4847591,
+      "sha256": "4ebe3e81528c7ffb23561da080833ec4d0252d924e3ed27133b76ccc0f098fc0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00278.vtp",
+      "size_bytes": 1444023,
+      "sha256": "1c2848fd5418496ccefa13c74d8d06d93deb9ee672e5fdcb3aa2a081cafccb5e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00279.vtp",
+      "size_bytes": 7063124,
+      "sha256": "29d6ef79b666838913c7979f96cfb78cc73ca12c91de4bbccd5e7377679e74b4"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00280.vtp",
+      "size_bytes": 4095739,
+      "sha256": "53b16ef776f412f8ef4d6a142fd79d8de168d6165391800ffb52d99745fd0faf"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00281.vtp",
+      "size_bytes": 3231585,
+      "sha256": "3dbe70df0bbf5827eb374005729992c06ca65eddc6f3ec2cac87faff82e40f1f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00282.vtp",
+      "size_bytes": 6173890,
+      "sha256": "91ca15b17af2bb31483770670e0777c5779ead90d1bf20290287aa315861cb2b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00283.vtp",
+      "size_bytes": 6665274,
+      "sha256": "e8365acfc9b79133f3f1ead3b19863cdb638ae14c8bfcccd4cbe890e0585344f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00284.vtp",
+      "size_bytes": 3619148,
+      "sha256": "4460c6865dd5377633df583cca99bc2714159ad33958bc76721fc1779f6d2531"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00285.vtp",
+      "size_bytes": 1189592,
+      "sha256": "185a9a392416badd7517f5c07a364c306357ebeb0d28b4e457587c98e48fff4d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00286.vtp",
+      "size_bytes": 3883889,
+      "sha256": "587a09597fba4ffb0039e8b11bf7c913d0598d693f8d05ac973783d4aa49306e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00287.vtp",
+      "size_bytes": 7990369,
+      "sha256": "ce70fd070a8714e1500313b6556a410fef9f2c0763f47cece940fe357ca81457"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00288.vtp",
+      "size_bytes": 4257137,
+      "sha256": "5a16bdf96c64419c659a7977630e0ac7dc9ef4736993b475023e4e0e5858cb37"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00289.vtp",
+      "size_bytes": 2683873,
+      "sha256": "a4caba14fd54538d1ceee0ce7577af4afc507d275fc37a90cad3e1fa93261780"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00290.vtp",
+      "size_bytes": 2801041,
+      "sha256": "d02b55874b04b98539309a3319f048b7f33a25f85136d52ef60cbeb7cc976585"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00291.vtp",
+      "size_bytes": 4345398,
+      "sha256": "d7c162c3dc0144843d0ae1324b2d956c6e4559219a92af88a5118ba25eb46084"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00292.vtp",
+      "size_bytes": 6548868,
+      "sha256": "69d0bb6f4a5cff6702606cbccd7868bf7adfa3e143b03be3e6cccddbdfd0b904"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00293.vtp",
+      "size_bytes": 6926977,
+      "sha256": "502afe648d9cc56c0d865654dad2d64f46c13aa4bb856664be616838b623d38b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00294.vtp",
+      "size_bytes": 3194016,
+      "sha256": "d05b4491910eadd5f0e855bec2e508d72f8c9ac8e5c0165b96372bf7dfb6679b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00295.vtp",
+      "size_bytes": 2633634,
+      "sha256": "ce69642a385b9bfa3b3c1be4e5e365de55d0f49f7a9c52cec05da4bbf478e70a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00296.vtp",
+      "size_bytes": 2443518,
+      "sha256": "8f9d644d8b0a62d875ffce09a70aff1f1bfe70a134653e1fc719c8cae32f21ea"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00297.vtp",
+      "size_bytes": 8365542,
+      "sha256": "04e09b80382cf093a95117b98b12f2b60d8adca1fd556b1e4c17f62d050a9214"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00298.vtp",
+      "size_bytes": 1987330,
+      "sha256": "7adb31043ec9acc8635f03ff3b8749673657e9033bd49cea3e076732e6d2e489"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00299.vtp",
+      "size_bytes": 9683009,
+      "sha256": "2fbcc303d774d8ffa7118e782420fe0eae0f56a07611646837a2527e77429999"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00300.vtp",
+      "size_bytes": 4285261,
+      "sha256": "af294f4ed05923b3485b4d7633991a0855ee3567e280c465c406acf63c968cae"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00301.vtp",
+      "size_bytes": 2727144,
+      "sha256": "beaf5929fa1e0063f28cff68ab2565a62f8227347d80ad0d3d4ee76eed634b52"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00302.vtp",
+      "size_bytes": 2651085,
+      "sha256": "0ed818bcdda625a16719871fa17587a3cde1b4321461ae604993344c80cfc960"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00303.vtp",
+      "size_bytes": 3031135,
+      "sha256": "284407ec44f670c3961f9da05f8a93eb3aa6b47a71ac94e38a74c90c30fb7542"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00304.vtp",
+      "size_bytes": 1397102,
+      "sha256": "fac22a1093d6b6b603bc830dad2427958d7f39d5b93cb913d09c8450dca453b5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00305.vtp",
+      "size_bytes": 3272996,
+      "sha256": "94c5efb8f8fdfb3f514c1c413f9ae1144e25a8ff93a7860aecf3ba7217131675"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00306.vtp",
+      "size_bytes": 6037612,
+      "sha256": "794bd72e5d4758611976772b312d78e172ee26cb9b8c00485475b9657fd6b3be"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00307.vtp",
+      "size_bytes": 5663282,
+      "sha256": "766d06e7b556ab159722c90ade910d481997bc27833f4ac2ca61893d3a9c8f34"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00308.vtp",
+      "size_bytes": 2820434,
+      "sha256": "82163afd0869ccbdb0636f670f7b7641a7a292bcc68daeca059a79df62d18adf"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00309.vtp",
+      "size_bytes": 12458168,
+      "sha256": "8840f2407b61fa7a6caf063d61994f6f664c83134c2ba46443b9fcb67a235dc1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00310.vtp",
+      "size_bytes": 3635598,
+      "sha256": "9f99bc2df20f5115ca09d4bc6aba4dde112869b051dc9beb438c9dc4c9abc81f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00311.vtp",
+      "size_bytes": 2974180,
+      "sha256": "8a52ba5a509063203fcfe43125171752f15db7b9df658766438e3a934b43f9f1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00312.vtp",
+      "size_bytes": 4940256,
+      "sha256": "dcb54f3f1903b88f1ef7a43d88f028b167de2a59a770012c2b7cbb752d55e877"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00313.vtp",
+      "size_bytes": 10253834,
+      "sha256": "f15406ec88034736e92558f13a2eaf32a830acd08b2f3d3633b7b6482f260ab2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00314.vtp",
+      "size_bytes": 7672648,
+      "sha256": "6de4fdc104df6e5315231e20a53f33c1bb8e6c3102f09dc448ab32136658192e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00315.vtp",
+      "size_bytes": 3724602,
+      "sha256": "27834733ff1c95065e51b3f5e7273aef07e987d0a304b333d4de10cf57d33b0e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00316.vtp",
+      "size_bytes": 3967608,
+      "sha256": "390aa8bf7553db53b7c2c635ced4758981896d9c7555a74d399674f7350e2bef"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00317.vtp",
+      "size_bytes": 4972376,
+      "sha256": "3f967a6cd5116edf29ceddcd492138241750053eac06d2ab3766ee93ad9cdd9d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00318.vtp",
+      "size_bytes": 3651964,
+      "sha256": "c483ab05ece7a76b35cff214e807430ccae56212661733179842d3d9a544882b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00319.vtp",
+      "size_bytes": 3361066,
+      "sha256": "8dbd2e10ff0f8706990da660f1255294bf8166f92cedacbe79e6ddff6c56b817"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00320.vtp",
+      "size_bytes": 5853785,
+      "sha256": "034aec30fd7e3257ac32cf2dc0eff78dcf12b74e3d44a66e993ac287d43ea4c9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00321.vtp",
+      "size_bytes": 8752676,
+      "sha256": "4fbeaab9cce05f9880d1eab31867ec86529ba0336d6e4880236655cd8eac5712"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00322.vtp",
+      "size_bytes": 2604690,
+      "sha256": "07e0b7c9be02f4d42ba866ef28b554a81dc39c635f35f787bb24a0e1b08c96cc"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00323.vtp",
+      "size_bytes": 4052070,
+      "sha256": "7b24cf569591126f5f7b5bf4052701d8b2f5ef2ae2145eab1b2e08c7acde7fb4"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00324.vtp",
+      "size_bytes": 4446464,
+      "sha256": "65d8c24f3bfad05f08afd19dcab6f34a1c172c6ec2b33dc5c8317af92ac4ba1a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00325.vtp",
+      "size_bytes": 6282700,
+      "sha256": "fab80c5d84dbebe800fb614c0851d898f85b3fcd7d0037b435368d3f0a470f61"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00326.vtp",
+      "size_bytes": 5236772,
+      "sha256": "b890e7d86171f99ea4a1a07c89e880346ab087407f0c2fa2d319b478931fddc1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00327.vtp",
+      "size_bytes": 2776268,
+      "sha256": "ab74985fc9ed179363bc57abcaedad32fe35dea4890dc5775d3ee7a199dbfda4"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00328.vtp",
+      "size_bytes": 6706246,
+      "sha256": "4ee88dfb5b586ceb5405d67b1b982e0f2469630397d7b35ab084002da470a019"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00329.vtp",
+      "size_bytes": 9744840,
+      "sha256": "fd25f69cc34c8022c9a4aa1ed4c2e2988405d0bd674cc627d088ba488b507b6d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00330.vtp",
+      "size_bytes": 3884444,
+      "sha256": "ff6880e0ff0824d4e76b443aaf3f10708da5c49fd5d696c425c49548fe240ffa"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00331.vtp",
+      "size_bytes": 4952021,
+      "sha256": "cfd47a8aa38a91e4c33a9147dee0c6de2d71e1b97c2cb6a93575baf6834986a5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00332.vtp",
+      "size_bytes": 5163833,
+      "sha256": "87408a4d1ec3997e263fd8fb10dbaa17b6c579e56c57841c294c1b7642c8c779"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00333.vtp",
+      "size_bytes": 5677051,
+      "sha256": "8fda925f7bfdbe35bbfe59ea5e2cd775ac11c551106cb0aa6bc3e0488e169bb4"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00334.vtp",
+      "size_bytes": 2667954,
+      "sha256": "42f37d37d23ef89ad108dc7e5ae513f5fdee0ad0a4322c06155841be78bf9c75"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00335.vtp",
+      "size_bytes": 6077747,
+      "sha256": "791a60b848add2e1c8220b810dbf362e46d2c9ce7bd1a42f1af3aba7ffdedbaa"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00336.vtp",
+      "size_bytes": 6825766,
+      "sha256": "408ba2c07465fb57137d84262ed3ecfb983baf6587517eda1638c31b115e6987"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00337.vtp",
+      "size_bytes": 6465259,
+      "sha256": "68c94d6ba67c27fd8260e860fd42cd2bc9d14391c75c62052e818d730343794f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00338.vtp",
+      "size_bytes": 5024456,
+      "sha256": "a08b3928aeef71e9e46c9cdd30f0e3ca9a7eb2e0836558c619160b40be2e3e10"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00339.vtp",
+      "size_bytes": 3781720,
+      "sha256": "46bad1f5f6e8ae44c2035d7c05bcca2fd2885edd4469c1036dd3744f26779d8e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00340.vtp",
+      "size_bytes": 2738611,
+      "sha256": "723b34afdb9233f56b55be388d2bba68951962d04e0359307728945febd9dbde"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00341.vtp",
+      "size_bytes": 5535968,
+      "sha256": "a2111e66fa6468fe0c03f1f0ea0e210e2a686b40d7adee8d243d06d899cf2d89"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00342.vtp",
+      "size_bytes": 2361278,
+      "sha256": "33150723cbcf4cffcabb95702ed4ea4f82fd93d4d03c8e35242620e9732a1dff"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00343.vtp",
+      "size_bytes": 3402329,
+      "sha256": "9b46a456d961adf72dc97465243baf1b39c60dad0b56b6dcdbd9f80af6d6069a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00344.vtp",
+      "size_bytes": 6347374,
+      "sha256": "6bb3fe1025a747afa9f2ecdf8daa60fc18c7532cc51b786bb9810a6b7e18a6fe"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00345.vtp",
+      "size_bytes": 1262338,
+      "sha256": "6b527f08d4d106f0246b38f6febe1ffb81f851bf897a8eb35bc6e3cb2ff67d0a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00346.vtp",
+      "size_bytes": 5705110,
+      "sha256": "86b1eeee96c2e4c12efe69293edac008ea7bcebf9e90419035f09058461fc260"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00347.vtp",
+      "size_bytes": 2412808,
+      "sha256": "01becc4645d53d3185a51bfe140e63fefda98f35a0009d63b746ace815ebf70c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00348.vtp",
+      "size_bytes": 3463640,
+      "sha256": "c393fb956472df381d3da32286e11c863b123e45bdd548d75c98422400c8af17"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00349.vtp",
+      "size_bytes": 5194029,
+      "sha256": "93a6505da54c7f2adf66a99a4eddc10c2b87186751a07d614b0848a933b9706a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00350.vtp",
+      "size_bytes": 3656312,
+      "sha256": "82b561663605a798af466b758e0c1f19e3a01d2dd56d3ecf75822949887285cb"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00351.vtp",
+      "size_bytes": 5500057,
+      "sha256": "ceab69c73c96962fb96faec30fd04eee031f64ed42b2f91c0325cdc4945d52ab"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00352.vtp",
+      "size_bytes": 2552500,
+      "sha256": "e438c6245458fb849289af43299aea1a8abfe5fb085008fd5933a66526c1db5d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00353.vtp",
+      "size_bytes": 2811505,
+      "sha256": "36c14d9ed1095cd2fd87af8e82286d59e31942835bc3208948345174c92268ca"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00354.vtp",
+      "size_bytes": 3146624,
+      "sha256": "ffcbcb1683d4943910e1972c385b47c7f20d1e61c584e129055f8513d4cffbb6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00355.vtp",
+      "size_bytes": 4176952,
+      "sha256": "bd6a69df89f1aa49216da1c4573ed8ef01cb78ea7846a754f03833cfbefa914f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00356.vtp",
+      "size_bytes": 7607076,
+      "sha256": "4532efb1462ae24edfb165ff2c72ee507ef0fda18f629533160d1039bf0ba358"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00357.vtp",
+      "size_bytes": 863594,
+      "sha256": "e50b6ad2131a0b0c748044cc9668d32ac61056dfbe13308f6ec5d7e2fb77d158"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00358.vtp",
+      "size_bytes": 2988461,
+      "sha256": "2d05662ed87c96fe8b919cb449e71130bc110aaef49c525fce2a1b9ac5c57758"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00359.vtp",
+      "size_bytes": 3210361,
+      "sha256": "e18eae9f7aec96c3aeff1b0dcf864252a71216eedca98768b513d6d8c84d2d1c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00360.vtp",
+      "size_bytes": 2152036,
+      "sha256": "473543e536f5eeba7dc59f43fe9d78ccd295cfe4c154819be97f43575380852b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00361.vtp",
+      "size_bytes": 3255945,
+      "sha256": "104d7e1f89bfea7e085764caaeb6f254f3b058cae4809fcc4ee81d7d5528153e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00362.vtp",
+      "size_bytes": 7448851,
+      "sha256": "616fc22dbfc1feef6c437237c820c8c2cb9bcb7feb6bdc9cd1d8db0458bd0597"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00363.vtp",
+      "size_bytes": 3432684,
+      "sha256": "b3ca3bbd668482721506d101add3e4a1fce89eab8f24ccb2f5947f8406e58417"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00364.vtp",
+      "size_bytes": 5272964,
+      "sha256": "8900f60e7789d7cf8b2f2166e5a932bea60951df5475bf35bafe1e66fdfc2a25"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00365.vtp",
+      "size_bytes": 5576866,
+      "sha256": "a40995f96a6ccfaf429f65d0a1fb16294ba2173915dec7c78fbf015851401f9b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00366.vtp",
+      "size_bytes": 3248500,
+      "sha256": "87100ba4a27ac62be81a5b552b7b0137d946e4bdfe54d49f17a8dcacdfc7e41d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00367.vtp",
+      "size_bytes": 3073062,
+      "sha256": "d1001bbb6b6e3eccdfd47b678c358d5f22d702d48b1ab4c6b6253108ef4b0c41"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00368.vtp",
+      "size_bytes": 4944143,
+      "sha256": "d6efa3c2dfd018a96eacc6b9188a8bd153d920d8d676ee0a856b4cc25a28e26b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00369.vtp",
+      "size_bytes": 3867726,
+      "sha256": "ee4eddc2701110f486733dfb70196ea7c2391ebe2c4d90260b441cdf888d881f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00370.vtp",
+      "size_bytes": 2255491,
+      "sha256": "bd5ac234fd89d0f4d4b3c3b9563b96d2d37669738bca2d47d740661c57ee6722"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00371.vtp",
+      "size_bytes": 5145511,
+      "sha256": "8d1d2b5ae96e5c120b9b984d69c82c9db777cf2958eade255029241c3664db79"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00372.vtp",
+      "size_bytes": 3320316,
+      "sha256": "6216e1889c08c5491531555d3e14dea8fbc56457e9a151b550a7803f5f77fe9f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00373.vtp",
+      "size_bytes": 1853107,
+      "sha256": "87c498f16bbda72dc18742a851ff3fa35f3499a78961aeeba4f7ed7414e2c9ab"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00374.vtp",
+      "size_bytes": 2462774,
+      "sha256": "1f911ce317e63f35f084717348bdb6f567873d782b498f956fcf56d12b2b2e6e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00375.vtp",
+      "size_bytes": 2660393,
+      "sha256": "ec0709030d741300d37e16b29a2b2ed4ce9dfe269d68c940c7a38d294bbc4db2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00376.vtp",
+      "size_bytes": 2352365,
+      "sha256": "b12289e5189406e0c7430d7167397c0d45440bd33943cc8231c29ec94df6c529"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00377.vtp",
+      "size_bytes": 4938524,
+      "sha256": "0ace102a6eced7791966d23ab541507083545360b341b00f12ce90f6011dd627"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00378.vtp",
+      "size_bytes": 4443056,
+      "sha256": "42ad7ff78fd4e9574676ffce6c9bba88f8a119b49e428181aefc050b9306bb10"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00379.vtp",
+      "size_bytes": 2912860,
+      "sha256": "810ba22d02a1891540a21934f9788033be3a39aeaf585c8bf2e331af4327dc6d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00380.vtp",
+      "size_bytes": 4877414,
+      "sha256": "0a51f0f5db3b37fceab32bca1400b628c1bd4ffba14f456b073dc1e8dacf101f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00381.vtp",
+      "size_bytes": 2775722,
+      "sha256": "362ba4a18e13752743035e36e05417dc0877f2170ba24f2a6c09238cecc10557"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00382.vtp",
+      "size_bytes": 7109504,
+      "sha256": "7e8f9dcb78dfbd0aca28db716551e8b8730c5bcd1179ab4764512bb1479f0b63"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00383.vtp",
+      "size_bytes": 1533299,
+      "sha256": "c5961a85037280f9a061d80744558f91cb4094242d23c9260964a04224206867"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00384.vtp",
+      "size_bytes": 3162168,
+      "sha256": "e555ddeb73150cbb6d1757045a043be016681c8eae8dc337005e7f0866219d87"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00385.vtp",
+      "size_bytes": 4790774,
+      "sha256": "a07de4baaf418cc5a073ea92a0fd9361c35dac2e0fb11468a28a1529b752e0fb"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00386.vtp",
+      "size_bytes": 3130654,
+      "sha256": "65391535983b5bad52c5afd9aa992606d81c44bf17d5c30fc85cebb61b9eaee8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00387.vtp",
+      "size_bytes": 2700192,
+      "sha256": "d1aec514dec4fe9fc061ca5ceb597e3ada2082bcb5b297fd8d07fc081fb81636"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00388.vtp",
+      "size_bytes": 3284708,
+      "sha256": "d74784ef90536736946576efd5b94c9bf9c1a1245383a75e8b3b033a05e1227b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00389.vtp",
+      "size_bytes": 3530145,
+      "sha256": "2e8c9c98a9f1fa0067616fa6c06ee6dd5a0835c9f12ee31331324f990544dca0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00390.vtp",
+      "size_bytes": 4019071,
+      "sha256": "ce3e598be9481c366c122e9fb127388de0c66085fc0770308d3dfb66c6de6b60"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00391.vtp",
+      "size_bytes": 5912975,
+      "sha256": "00898975329675ed3cbda3edbfc130f8837e4ae993fd681e07b786d34712f0e3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00392.vtp",
+      "size_bytes": 2154549,
+      "sha256": "9599c9b1fc612084faaf0a3e6b0ea08e148bbdb3a0e6a09db55903354bf578ed"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00393.vtp",
+      "size_bytes": 1698593,
+      "sha256": "484adeae3beb86c0692026c63dec1f377a7a0d24a3fae29198d0a5109a5f47ad"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00394.vtp",
+      "size_bytes": 5529468,
+      "sha256": "43a4fe630b022830edb433eacd1735556c02f377a7cbf0bf9c94d182c2a26f27"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00395.vtp",
+      "size_bytes": 2854096,
+      "sha256": "38fed82ced3c906fc18d37aa75f321a18e3864f9ae42c5c3688d6cd21a13a8a6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00396.vtp",
+      "size_bytes": 2667225,
+      "sha256": "8c1c9e253d59430874c537e858ab1a103e316983bfd043cb823a34b40b4502d0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00397.vtp",
+      "size_bytes": 3265278,
+      "sha256": "b24b0a685c159740ba64f6e3b72210e5d35d73bc35d3451c0d0d382eea0261e5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00398.vtp",
+      "size_bytes": 4586428,
+      "sha256": "530c71afd6fc765d622029a8b8d35737d1548d7d2d99282e9fd6a34224cc7304"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00399.vtp",
+      "size_bytes": 6203324,
+      "sha256": "8bed7e445ae2cc83248bb072e50bed46e7ad1b8d1ef498470ca0452dc6fa5c4a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00400.vtp",
+      "size_bytes": 6116607,
+      "sha256": "6c68c8a8b9de6e770f775f3ad27662f67d74614778b71fc0e919ac77f1e8da13"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00401.vtp",
+      "size_bytes": 3525632,
+      "sha256": "6fb3dafec09e339a7ebf6543f6ff36d4fa3c02597b984fba3a5abe34ab149a6c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00402.vtp",
+      "size_bytes": 8846656,
+      "sha256": "6852c91af55c5b01acb5ef263b5a0f2a454ad6f7be5fc056b96ac958b89c2178"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00403.vtp",
+      "size_bytes": 3709635,
+      "sha256": "8145f592f7520f47f7b71de5b88f71d38a5dc589eff7352fd4e989cf0d8eed57"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00404.vtp",
+      "size_bytes": 3152019,
+      "sha256": "10f284e8375bf048d748cd6fa349e0d2561ffb23ea8be9ef23166e41d537f25a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00405.vtp",
+      "size_bytes": 2858508,
+      "sha256": "3cda355a588b2c5851ad92cf649dd1100840d6553cf71c0b6fa81b64cf2ddf65"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00406.vtp",
+      "size_bytes": 3053128,
+      "sha256": "73fbd682467af02547d863dde584f20a4bb9648b489d0582eaf2f15dd71e52e2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00407.vtp",
+      "size_bytes": 2277322,
+      "sha256": "9ed1fc8fbee57203585a39383141c8753a13061c0b4892c626136b94434a1706"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00408.vtp",
+      "size_bytes": 2681800,
+      "sha256": "ae346fdf8db2d2ed2a328406f2389763dc131ca0484100828abc9417260a5aab"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00409.vtp",
+      "size_bytes": 3584514,
+      "sha256": "1ea0ef972e21d1e76493f1103d0866506f7c4d7f8b678ca2e3dabdaf01f618da"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00410.vtp",
+      "size_bytes": 4799551,
+      "sha256": "8cd39723bbebf14c8beef0e8ab628edcb39bcb720f9ffd1bb207c501184bf6a1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00411.vtp",
+      "size_bytes": 5810452,
+      "sha256": "7e1fb1dcb627126ea8579dc4b3603b704367e3b9517d02d71d47b4050cc22602"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00412.vtp",
+      "size_bytes": 2450233,
+      "sha256": "c4023eedc03ffa6e33bdd9d79440a4d2270564c79ef86cb725ae841cd0f2f6b4"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00413.vtp",
+      "size_bytes": 2087762,
+      "sha256": "01183d45a5a53f6d065a8f1c1b91ee8f35e807e610c60f83f3cda6797746c59a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00414.vtp",
+      "size_bytes": 2898895,
+      "sha256": "94a093ddb433024c5db2fb0f8833f036fa61602ce1f1c367c422bfc35fc07276"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00415.vtp",
+      "size_bytes": 1779595,
+      "sha256": "c43f5c4e84ead7efb6d0d3441be145d4a833d89fa183db1ad9cc9e7ab1ffcb20"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00416.vtp",
+      "size_bytes": 3504028,
+      "sha256": "6ab103ddc23c2a1bc0ae8dd18b0b5e3628e2126038acbfac9e67ea8999bcd3f9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00417.vtp",
+      "size_bytes": 2427893,
+      "sha256": "421df6e2188d5919a953f6942a2380f6ed9c07d6293298f0cdaecf7da881ca7b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00418.vtp",
+      "size_bytes": 2788444,
+      "sha256": "9b8c40788c9e8291b7b6a8186f40a0ecc96a447abbdbf77bd7e61a81a7470997"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00419.vtp",
+      "size_bytes": 5632859,
+      "sha256": "c340f19624f34e9e166541429eaf4658c2127489093fe45300b5acfb97bebcdc"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00420.vtp",
+      "size_bytes": 3686848,
+      "sha256": "abc72d4fdc3dd247044603fabb4c0eebd249dfd692e42c89c7217761aef19c92"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00421.vtp",
+      "size_bytes": 2756807,
+      "sha256": "b8c98f6cf0c7c59b95e6d766bd40b8ffc545a81be1575d6bc74a5c9489017fd2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00422.vtp",
+      "size_bytes": 4567119,
+      "sha256": "7362d06830d9046df3f9ce91c96d2cdd41ebd205ea68f26e0b5c4eda8ef08a8c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00423.vtp",
+      "size_bytes": 7024500,
+      "sha256": "c21fa7fb6fdab49f1382d0eacc6c20afe9c7c644eb9a6439899557c89cf7017b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00424.vtp",
+      "size_bytes": 2140722,
+      "sha256": "384719ecb7270e373696de4acc8881244faf4543e6994e32ff0ffa0c2b224831"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00425.vtp",
+      "size_bytes": 3259789,
+      "sha256": "7c4817a4d095ab2d8bbb6f1215197e05cc8214c6c7f2c031e8f471cbbed20e2d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00426.vtp",
+      "size_bytes": 2971821,
+      "sha256": "c996ff9b89cffc98daa0346695ff13f7922ab1659f30a0a4d334144da526f8e2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00427.vtp",
+      "size_bytes": 2693992,
+      "sha256": "693c0dd479420ee38a5127c7e54a13d5789a55ffe4303cc50ef0836c2c4974fe"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00428.vtp",
+      "size_bytes": 6344881,
+      "sha256": "aa916df2d2fda70a370cddc483fd42d0786b3b3a1f57974be7fdfa961a3bc998"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00429.vtp",
+      "size_bytes": 3268737,
+      "sha256": "f5851e36bcee6bb7d2ed0ab26722538a4304a5c24e4934ae90356b32e5f2f7a3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00430.vtp",
+      "size_bytes": 7582937,
+      "sha256": "6acb529ad0595bfcb07f3794badafe2f6411b4f37d35dd31cc1b8b5f6b5e2c4c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00431.vtp",
+      "size_bytes": 2529799,
+      "sha256": "bdfd7a878510c29399e2d917af8cf1128a918c4bbf572ed47ca120f2c223536a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00432.vtp",
+      "size_bytes": 7049120,
+      "sha256": "8c413b87ec74b39d6bc28135218fbfb32ef72b3f7631dec192f41a86556ce437"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00433.vtp",
+      "size_bytes": 4054666,
+      "sha256": "2493196b324cf3edc09e750e2e2e8ea759c7db9fc11b116c1c82bf678be70a95"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00434.vtp",
+      "size_bytes": 2662540,
+      "sha256": "93d02d9afe568d8abc1bd522669b26d64aeec25e56541d35a99a9047a543524f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00435.vtp",
+      "size_bytes": 1858095,
+      "sha256": "ea9863c3f57b5bd073b249e802cdf9f97da62deb4c82509755f6b1ef7d5da0b7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00436.vtp",
+      "size_bytes": 7031074,
+      "sha256": "fc19f6783210348be7f2f04c8f8f1b2553b98fa282cada6987af11696c5d1236"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00437.vtp",
+      "size_bytes": 4659613,
+      "sha256": "54223b06c63f247d26c1ed646b4c864de89c3c44698c309347a413fc3794cdcb"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00438.vtp",
+      "size_bytes": 6984115,
+      "sha256": "2b2104d6cfd8be9649c04c9c4cf07896336ae95a663a55633fdc9893d08dbcd3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00439.vtp",
+      "size_bytes": 3267968,
+      "sha256": "abf09af949b6eca82486aa58ae80bc766291cf63dd1c26f3caaaaf9503f1950d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00440.vtp",
+      "size_bytes": 2829100,
+      "sha256": "33e3d05c6c1a32164d763790fda631c5cd74fb8c5afd36144e692fb091889b84"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00441.vtp",
+      "size_bytes": 2425338,
+      "sha256": "3086addf246667030aea5b89ea9a8045a5d5cdaea493afd4e3527c4fc589cbbb"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00442.vtp",
+      "size_bytes": 2899020,
+      "sha256": "db8e7ec19d9a36168305c9d0a3896f71c298c1bba48265f673042858a084994f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00443.vtp",
+      "size_bytes": 3974765,
+      "sha256": "321d010cf7768044870a37a4f18251f26a01e004203a87ab66a43e7fb472bd9c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00444.vtp",
+      "size_bytes": 5112421,
+      "sha256": "68296a4c39312adb4eb489555ead30e4302ca9911c56229debf22fc25b25c242"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00445.vtp",
+      "size_bytes": 2226106,
+      "sha256": "521cbff61866b9c9d8f1573b5f91d11c1ad3c58a152b85e6ef4f8d7c099cc4f6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00446.vtp",
+      "size_bytes": 4107984,
+      "sha256": "482a019a6dfef6bc21a8a5ad2f320d61e7230b37c6b76d79e26a76169e02446b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00447.vtp",
+      "size_bytes": 3415677,
+      "sha256": "ee69b6c8da18a68d6ea82b8f8a9227ceb87886d08e942d8f7a70333bbc788b83"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00448.vtp",
+      "size_bytes": 3181333,
+      "sha256": "1aca6d059783f04cc3330392e7d8bc7a01c6f306080c7e4fec0de30e2d2ee308"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00449.vtp",
+      "size_bytes": 2784872,
+      "sha256": "abc90306a20e0338fbdc7e9ef78317e149d3ffca8e386813250b5441896c2da7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00450.vtp",
+      "size_bytes": 7231420,
+      "sha256": "034a47f8f8220c3c31f4ee6045fde69d0b34eed0337c4d5e4744ad6fd6b1c98b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00451.vtp",
+      "size_bytes": 3289028,
+      "sha256": "e045113a402cddb57134bf8c1e7cb3c3cd5c533ef54f9add0722220c2e17dbb5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00452.vtp",
+      "size_bytes": 2649185,
+      "sha256": "0c6b18e76b5fe7cbcc7aab972e925e294ac54f39ea8df274e15562a411b74c6d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00453.vtp",
+      "size_bytes": 3857508,
+      "sha256": "4bab98ddee1ffdc35054d5d4ec31413901b0d9e86b5a44dd547d01e7c937122d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00454.vtp",
+      "size_bytes": 3993388,
+      "sha256": "16069ac0c3e113459e7f149868c27e781f22c42d97ae33718c2ab696eaea7b64"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00455.vtp",
+      "size_bytes": 3037996,
+      "sha256": "1a21b939b6308bd4ec45737856881fb0a544b563eeedbff3e9ed0dfb8fe0fdea"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00456.vtp",
+      "size_bytes": 2593397,
+      "sha256": "0275d82dca79480433c666a15d5cc1f77cfb23092a11c7f61e09a3d7e7d3233a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00457.vtp",
+      "size_bytes": 3179653,
+      "sha256": "3d4db3b1d8a218cf8c72a281ee0ee809707cf4ca99f29dfddd5674260d6d8184"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00458.vtp",
+      "size_bytes": 2765860,
+      "sha256": "9c0b188ce60b1e8c09501ce92d6d3fdb93426e0df3d31de838331f7f2fb1298c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00459.vtp",
+      "size_bytes": 6701324,
+      "sha256": "1a325023e904b0fa54474434c10089d5d291c7f02141e5cddd00ea93f748e201"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00460.vtp",
+      "size_bytes": 2544750,
+      "sha256": "5034494e667cf9598341e81fd08aab3ee9ecd7b911e1db48af23828121f63b86"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00461.vtp",
+      "size_bytes": 3337392,
+      "sha256": "0963cc6c5c775fa776f9db2cf7c73d1da852b4d3fded58022d07ca312a63b2bc"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00462.vtp",
+      "size_bytes": 3087450,
+      "sha256": "6067ace3fddbd9263b6bbe6710688299d32ac872741529853aa8f244b6b58687"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00463.vtp",
+      "size_bytes": 3268326,
+      "sha256": "090539a6738c9c9ec797a909cc1a7740d3cf3f3f7880e899e92e83dd85212adc"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00464.vtp",
+      "size_bytes": 5561324,
+      "sha256": "bdc6b257cc8266f067108b33487f79ab5043d235059537097f28c7eda64e7516"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00465.vtp",
+      "size_bytes": 3357888,
+      "sha256": "d61a8dbe4f3a25052194caa4f8348d671811cd7e0e3e93973506d6a8856bc7d9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00466.vtp",
+      "size_bytes": 2693825,
+      "sha256": "848c0bbbe9d1350f64c5064de1b9866e1eaeb615e3ed1e88da939a1dfd9e51e5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00467.vtp",
+      "size_bytes": 2694925,
+      "sha256": "0e90bb745c65e479d6fe1b2d064e79ffd0012ca13b87d7265bac960504c71217"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00468.vtp",
+      "size_bytes": 5757248,
+      "sha256": "969a791f06c3f5c5bf76589cbb22eda4c00d2b347993e57575bb47ec5355bb04"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00469.vtp",
+      "size_bytes": 5362042,
+      "sha256": "82b836241e42da9e76687e8c1b6aa1cef118516fddb87caa88b333866898ccf3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00470.vtp",
+      "size_bytes": 442305,
+      "sha256": "39897d882be9166aea58b3692b656f762fedd156db7505723070c098aa0cf95d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00471.vtp",
+      "size_bytes": 8274799,
+      "sha256": "1f3b95761dfaf76af319f84edae08f0851bce87074ffb29ebf4e7b2068f10e69"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00472.vtp",
+      "size_bytes": 2689204,
+      "sha256": "a86e345488fb40238a3a7649da1b7c68a75561292dcd45fc8ac16b5442ff49f2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00473.vtp",
+      "size_bytes": 6190175,
+      "sha256": "3dea9d8d4ad9f1f2405bcd9f3aa77b62bc73ce53ad9e20eea220b045a4c1b3a6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00474.vtp",
+      "size_bytes": 7255689,
+      "sha256": "d33f718cb16e9f24b7817d615aab028508eca08c66d50cf09c14d90a1a4cc4d1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00475.vtp",
+      "size_bytes": 6548514,
+      "sha256": "30266e137ec902cbbf0b4d9a558b65f7e898ced496efb6dcd5df60b43a22d7ed"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00476.vtp",
+      "size_bytes": 3933482,
+      "sha256": "90fff9d22f465a5a07487b7aba715365868b8feffe15d859be14ffb71d5d11bf"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00477.vtp",
+      "size_bytes": 3434318,
+      "sha256": "bc17ec44b54e4a6bf6f44f49c63c73a9d525d05bd7d2c310f0ee4ba34f256bcc"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00478.vtp",
+      "size_bytes": 7448380,
+      "sha256": "3d754be0785c0cb24ce845724dd24f53702a86b5d76985aa5febf5f9206c892a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00479.vtp",
+      "size_bytes": 2154626,
+      "sha256": "615aef8b57cf1e1640890fe63204f23cc1a5068ea080a4bb72c1c7c3facc1a2e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00480.vtp",
+      "size_bytes": 3981708,
+      "sha256": "2a58c750a9a59c40644d605d025f7107d44745a2e46ec6033ea6ea19d6b76c0a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00481.vtp",
+      "size_bytes": 4494228,
+      "sha256": "fb753b61cab1cd995e665a0087daa97e3baba4db9cf718edee4ddfb96bbd5b64"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00482.vtp",
+      "size_bytes": 5011452,
+      "sha256": "68ef823fd4b26cebc4b3d7122f678b6f776c488fbcf95f652f55466bc887fed5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00483.vtp",
+      "size_bytes": 3349241,
+      "sha256": "61513f1a8d41919a1899ec78e2183aeb477e95ce78101869949d3851df76342c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00484.vtp",
+      "size_bytes": 4148554,
+      "sha256": "64a5cefbd1fe4b1f739eb97a513ec66c4afcf72956dd8cb5f1d03a221adcc423"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00485.vtp",
+      "size_bytes": 2741432,
+      "sha256": "26fc42c4282eb32245d54144dc3a29fbbde23589f7e468553eba8fd462062ccb"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00486.vtp",
+      "size_bytes": 5759981,
+      "sha256": "9c5f9d63c076ad1750e58ca72364ed8404c70602bfeb97cb3aacab833e0678b6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00487.vtp",
+      "size_bytes": 6409171,
+      "sha256": "07d00fa840f834ecafea801d6d3b3eb3ee00aab30156ce3142a15cda64f33321"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00488.vtp",
+      "size_bytes": 6727751,
+      "sha256": "35ff03240d878c265788d4bbb40fc12a24836116ef5a05e31314d518ec4817e4"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00489.vtp",
+      "size_bytes": 3402884,
+      "sha256": "34c4956d41fd7d6592a4ed63b4a4709e557d2d47d155f3e145a981307ab46ef5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00490.vtp",
+      "size_bytes": 4215283,
+      "sha256": "f53b8a25ae91163cc7ef99d8756c9b22330a9af3b1aa04b65109f00bad68e45f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00491.vtp",
+      "size_bytes": 2956944,
+      "sha256": "ffa40f07537337adef9a4b7b2bad1ce58332939cc9770d6c9dca23689a7b4873"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00492.vtp",
+      "size_bytes": 3459024,
+      "sha256": "18a61a059d5fe98f73794a87bd0f951fbb12dea267b410f442f6ea6135812190"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00493.vtp",
+      "size_bytes": 3177624,
+      "sha256": "93bf610779595ed262c88acae88b65bed0de4a23d5d76e14e60d293450fa0f35"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00494.vtp",
+      "size_bytes": 4043171,
+      "sha256": "55422484b264895042d8f6f566651d702c76978cc5999c1701a60bc99379384e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00495.vtp",
+      "size_bytes": 3826421,
+      "sha256": "7ad1adce9674cc531280cc3aac970c05cb3f9ef582d4093bac836bd875e9e7bb"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00496.vtp",
+      "size_bytes": 8095422,
+      "sha256": "51db86b769c8d8658cebe354a063fd4a01908e14d356f79fd4c2af0b9c3d01be"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00497.vtp",
+      "size_bytes": 9124452,
+      "sha256": "52b9b323bba48466d491d58ed90edb13c7b30145394c237c96800af8e1431c14"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00498.vtp",
+      "size_bytes": 3502126,
+      "sha256": "06f8b7abbcda191d3733fa0f6bb13a10a9a93af85ccfc4c730e18a76ca2477cb"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00499.vtp",
+      "size_bytes": 2366411,
+      "sha256": "181fc5c56ac96a113435db58c46cc2ddec59a0c9a9558d9c12ef7f36d61d0e29"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00500.vtp",
+      "size_bytes": 3588839,
+      "sha256": "0ab214ac317074f5b37f5555cef32d3fc32ea8e1f3f09f70f1ca197a0b24471a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00501.vtp",
+      "size_bytes": 3588810,
+      "sha256": "df7b2a29e5852aab33682e52f5c3711b93772c2ed9a48b8c091699a688ce887a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00502.vtp",
+      "size_bytes": 3854895,
+      "sha256": "e48cf754feeadbdb3de48924309f1f7f4c9b99e2ab8247ac3668066ef3783378"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00503.vtp",
+      "size_bytes": 3764719,
+      "sha256": "05e4ec4f2e6c0fc39c4767e6443ed671bbf6c5875e23dba7036c740945c8d0fd"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00504.vtp",
+      "size_bytes": 4905615,
+      "sha256": "feac7e6d31544953a2e2d8df4d4a2855bed96f4f8b8b4d92519ed989b018a988"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00505.vtp",
+      "size_bytes": 2746398,
+      "sha256": "bcda2392e69f27685569ea4c889397a20f23f8ac83af13660a61a9b1b2788d6d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00506.vtp",
+      "size_bytes": 2474395,
+      "sha256": "e7bb988296dfa36ea3b0882281b0002640454639b8d613f4a6b25b8e5fd7b92d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00507.vtp",
+      "size_bytes": 3597953,
+      "sha256": "3b13050dafda879fe476bb69d49e5573b270c03b0d5b5dc48b2c80f95ecc0640"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00508.vtp",
+      "size_bytes": 3129372,
+      "sha256": "7161ab3761a136964a080b8bed3eabf47d7c10985c6036ab91f10db4837bef8c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00509.vtp",
+      "size_bytes": 2974792,
+      "sha256": "b4b9542d7e924c176ec62efcfada7028ac844110585c8c1b3f245d103611d36a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00510.vtp",
+      "size_bytes": 2690241,
+      "sha256": "106b4d90f107cfb94c2b02793ad2d79f3d2c1e41fac3e3e59ba01962b588e3d4"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00511.vtp",
+      "size_bytes": 3136220,
+      "sha256": "30ac64e3e4f11eebf27531e566a1faded90b43ffb35b48198f2b6fafc4cb3e9b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00512.vtp",
+      "size_bytes": 3377078,
+      "sha256": "f53fd8cd2bc15f753a98faf8813cf9f1a8e1a1660725832a6809e952a8b5077f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00513.vtp",
+      "size_bytes": 3963676,
+      "sha256": "07840fb80f60627b69a39bdd6481ef9f477a701f8742b87668a49bb90cf15c55"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00514.vtp",
+      "size_bytes": 2703166,
+      "sha256": "ff0a91cbb0315bc04fb22ca4d7e88398f7fc9a2aef33e3b78314c666b1079e73"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00515.vtp",
+      "size_bytes": 4140661,
+      "sha256": "477e1e2e4fc117976c634b4ec546d346f98d249a9b3d272b0a034c1a28ec0d91"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00516.vtp",
+      "size_bytes": 1813122,
+      "sha256": "9c27525d990d7ed279c682f77fcd0a049599d1aebee44a60603ca3ab74be84e2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00517.vtp",
+      "size_bytes": 1597016,
+      "sha256": "56aff3cadbdf94326804b979a7d350c6b3a466f45d7ca5b684aba33a89be44db"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00518.vtp",
+      "size_bytes": 2591330,
+      "sha256": "9e7f5c9c9fb35bfdbb65817692b6dede63100b7799628330481b92c879649908"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00519.vtp",
+      "size_bytes": 2924980,
+      "sha256": "8b437d2e10cae5211c3e1fa02ac19678b132d8cfa851366ca809294adda70bb3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00520.vtp",
+      "size_bytes": 2819512,
+      "sha256": "6884d5762fa0afde52d60ef14b757d470b65933b22c99bc7ce95057da6954db2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00521.vtp",
+      "size_bytes": 3684897,
+      "sha256": "e4f81bf12517f1f07920626365ca9b2083891776cc04342195b8738f6ed53596"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00522.vtp",
+      "size_bytes": 2520153,
+      "sha256": "d7202e723f4841c2d1ff04b1ce80c59bf1183d5991b204c8e0353605b9a08360"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00523.vtp",
+      "size_bytes": 5360120,
+      "sha256": "6e554b2eebacae008085ce37bb0cbc572c175859333541f5d40349308d99a38b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00524.vtp",
+      "size_bytes": 4991712,
+      "sha256": "a2b4a3c0a898ff8ce97ae990bde8d353c9146af973a44ee42c5f0377d20a79d8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00525.vtp",
+      "size_bytes": 4548276,
+      "sha256": "210327ebdf61b54da5fce6075c73bdf8135a5e42fc2e3dec1b47c23067a71ba1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00526.vtp",
+      "size_bytes": 4206644,
+      "sha256": "e7f645856c86f0f73d96ac1c1467718969e21765d8cc4aca44af73af6b9ff876"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00527.vtp",
+      "size_bytes": 4831528,
+      "sha256": "6c0112e30b2429b14f12d67696e32c70563387a53f37d882080b3d66c03623fe"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00528.vtp",
+      "size_bytes": 9657360,
+      "sha256": "b6026013b5a35fae8ad3f70817843b67d9843dd5cd4cdc9f32c028afe019072a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00529.vtp",
+      "size_bytes": 1836198,
+      "sha256": "7814b9d118e1e75141b8773e951bb8de016ab3843b2ff0cff7553402311aedac"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00530.vtp",
+      "size_bytes": 6286154,
+      "sha256": "74760494aa33dec2b4e7e3ebae2a762a4c87444b4035fc964b555eb76dcc2f7b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00531.vtp",
+      "size_bytes": 8070128,
+      "sha256": "b5f4c9979ca7560f42e265c2d98176146127190b13edd7cec8ad66c744da9f11"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00532.vtp",
+      "size_bytes": 4487852,
+      "sha256": "9b013e01110f51c1d9805c147c1aae9bb759cec1e50d08666b592dfe6ab76cee"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00533.vtp",
+      "size_bytes": 6378416,
+      "sha256": "b0a6aaa50df39fffc99986dfa2594a92a19c99781500f78272d2e7a6d2c669aa"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00534.vtp",
+      "size_bytes": 3643912,
+      "sha256": "3305db49e56004acc807ed85b6988a65e277f3fca4147eccacfd67fcea77ecd7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00535.vtp",
+      "size_bytes": 6083531,
+      "sha256": "a71e23b916a2b29fc87fe56f17e83079f3b115bbf14f90854c9298c3ea592388"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00536.vtp",
+      "size_bytes": 7105992,
+      "sha256": "41016517cd8557a574db44a190d89414fe1f4e9f7912630de82f2910cd5259d6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00537.vtp",
+      "size_bytes": 3358432,
+      "sha256": "2a7a7e30bacd164ab4f122ced493dca5f1df10fc73cb6663b818f75aa0d23566"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00538.vtp",
+      "size_bytes": 9204941,
+      "sha256": "d7532f8e33ef4b444a2f2dfe942301040cb6dcf4323c98765553e88db9845da9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00539.vtp",
+      "size_bytes": 4710210,
+      "sha256": "9e4b3f0b6e7cc379c3c2ed17aef6ed49b693bc8b38b60b3a36132b72c0160aa3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00540.vtp",
+      "size_bytes": 4430683,
+      "sha256": "02c46e5fa88f00a3ee7dc6b7bfc34d2a7b92b959b0c154a9a88ac2a7101b90e7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00541.vtp",
+      "size_bytes": 1599500,
+      "sha256": "d6b665eaa8c7f47a54c01dd7f35806d041ccdf283f415093fae2025e44040420"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00542.vtp",
+      "size_bytes": 1629406,
+      "sha256": "b011ff3e472f16d5d37e7ded03c170b594895925df4e4237b0827116917740e7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00543.vtp",
+      "size_bytes": 1803516,
+      "sha256": "0706285a86841458c15ccdf6705d7ad828b671666ba3c8820ef2c14e42a136bb"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00544.vtp",
+      "size_bytes": 3087499,
+      "sha256": "f0daccd988ccb0fcf1b2a5beec7fdbdf68a6df167e835658f3f37862fe502f75"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00545.vtp",
+      "size_bytes": 7775125,
+      "sha256": "02f150cda8f0a07879397b86da837927bc85783357dd3ec9eb1caf31487b395b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00546.vtp",
+      "size_bytes": 7299311,
+      "sha256": "2d9848eb0ac9eed96142bcb28f5e572adba24930509cf45953e2f9476d78d6a1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00547.vtp",
+      "size_bytes": 3600063,
+      "sha256": "13da172b2edbe9da7bfebd3da0bc6d8890e8674394d1ad3bd396d830783ee9d5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00548.vtp",
+      "size_bytes": 4487440,
+      "sha256": "2f3175131e8aa07a76cd96adaf5dc7320eac462f839671ddc081e93e7a10adb2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00549.vtp",
+      "size_bytes": 7401597,
+      "sha256": "e14b3d76110280337b68fc70f88d86ca559ed4def4253ba67f2520da767cf189"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00550.vtp",
+      "size_bytes": 14012564,
+      "sha256": "820a68eec582675355bc4b4aaa9b98e1424af9f252064b1436e8fafcef9d6e6e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00551.vtp",
+      "size_bytes": 3337755,
+      "sha256": "dde6fb7bdeca013b200cd1635c4d2b63ad636a750fa3509e5bb82a1762040137"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00552.vtp",
+      "size_bytes": 2922725,
+      "sha256": "9318fafe211c4b5c5e435296d38069ff7905ae7b5041744a0cc97c220e71fe87"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00553.vtp",
+      "size_bytes": 3449126,
+      "sha256": "c8fb721232a75622769395dcdc680cb967c8684bbc646d4bcd439fc670a7dc9c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00554.vtp",
+      "size_bytes": 6105529,
+      "sha256": "1c5bbd30e58de161b9c4d82ace87f76f89606738b9e51b77f0d150c7dd57faad"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00555.vtp",
+      "size_bytes": 4635404,
+      "sha256": "a30da2bc092b123b1e5d019223d051eb6e74a192dc313e8286a005f1c07aeb52"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00556.vtp",
+      "size_bytes": 4757115,
+      "sha256": "1acc3b1a87b7e31c8bab7bccf4ef1ad05b3b1af2e03fbba3e51bcb58f7388122"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00557.vtp",
+      "size_bytes": 6075304,
+      "sha256": "451d0175f879ea627f994fb3965ec9acbcc0bb13335c6676ad6cd2d59aa38434"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00558.vtp",
+      "size_bytes": 6505232,
+      "sha256": "4dd4fcddbf295b47520cce789c8b7a4deea632d2e78e1dbb94ddf3d9011bca35"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00559.vtp",
+      "size_bytes": 3985874,
+      "sha256": "359a44c590ced8a64388a94f6e9620ab627ba8ad92c3be67cfb19c21710dc0ec"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00560.vtp",
+      "size_bytes": 1689122,
+      "sha256": "1ad50611d2867ab50798a035b579b84680af833e9aaa9a54ebd2bde61bdb8f78"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00561.vtp",
+      "size_bytes": 3673727,
+      "sha256": "9b2be93f7bd2cb4ed44c674853a10e534e3232572a0a3969e64211e1371b1891"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00562.vtp",
+      "size_bytes": 1806825,
+      "sha256": "5548da6814e1d5e5ac4b939d2e9897e2120169139711a210a41b0b9f94bc2064"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00563.vtp",
+      "size_bytes": 9314872,
+      "sha256": "596f13080666d1c2da7e267f07071b200e37b07faf3a55b911805e83cf5a9677"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00564.vtp",
+      "size_bytes": 9034404,
+      "sha256": "15e37523a027bd2cf757b14386afbf1ff48e3f8d4a942b5108a869fc1daf73ff"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00565.vtp",
+      "size_bytes": 1257354,
+      "sha256": "61557571b859c767d774a00aff59baa89de398958fe92fdf3b2737fefe336efe"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00566.vtp",
+      "size_bytes": 5951112,
+      "sha256": "4620374b797e8cd2691b7968b6c3fca4c16797fbb0247feaf8d42ae000e00ad2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00567.vtp",
+      "size_bytes": 3533011,
+      "sha256": "0bd99e38565b9e18551d44dc7b1017d5e6e209a532e3129606579ab1703ae975"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00568.vtp",
+      "size_bytes": 3059599,
+      "sha256": "a2cadc4e8b9f3cc75a1eaa44d2af82c7fa3bc1b9146a1d4693a15543bfbe913b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00569.vtp",
+      "size_bytes": 2854651,
+      "sha256": "83ac919cb36f22b3ca09524262fbcb63d3a6041126a4ac06bad50d63bc002a3c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00570.vtp",
+      "size_bytes": 5729877,
+      "sha256": "c520a83a95136bba0ff0ac8cb5a11e447ca8293cf46963d2bb5363b8d46cba70"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00571.vtp",
+      "size_bytes": 5260800,
+      "sha256": "5766ef92673199a318bc842f7da857b6fe69c6598c83090e1d4f26eb5c6f8593"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00572.vtp",
+      "size_bytes": 6070644,
+      "sha256": "27603e5e759d3d003bcb4c8cb53ffbee0bebcbed0492cf1918248eef48778488"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00573.vtp",
+      "size_bytes": 4904253,
+      "sha256": "a182f20ad493d67b64c7594767253289020aff8e67c1b31a77e806abf713b955"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00574.vtp",
+      "size_bytes": 3587073,
+      "sha256": "20433e739836563f42b62458d5ed894e67c5aaf98fed3141ab6011ddc59ec877"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00575.vtp",
+      "size_bytes": 3567295,
+      "sha256": "8ab0437ae1a7820e0c69a2b0c9d03262b6ccf4172b7bfb572d8124b1bb70028f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00576.vtp",
+      "size_bytes": 6119860,
+      "sha256": "ed4a9dc44d36e6085b50645f64eba212af12fd009a3188734c0792ec69aa82cf"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00577.vtp",
+      "size_bytes": 9298713,
+      "sha256": "f05668eeb37bb2d4901b14c37b901fdd7de88ac461ad148d30a027ca171d3bbd"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00578.vtp",
+      "size_bytes": 11501250,
+      "sha256": "126b515acd25c59e65380d0290447b4b9f513074ec4b3fc98eac0eb6308ae472"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00579.vtp",
+      "size_bytes": 10143260,
+      "sha256": "02a3d979711eaf6485b0227775cc4728c187615321976ad626ccde69b26b32db"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00580.vtp",
+      "size_bytes": 10946688,
+      "sha256": "d7386a7bc39062707ff2fd3c219f1a2ed92e8b7ae9895b46d59eac60f6954e90"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00581.vtp",
+      "size_bytes": 8519025,
+      "sha256": "c53ea9a85867189d757c66f10f493ef77bf9a982dcc206d3db8abb109568a8e6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00582.vtp",
+      "size_bytes": 9448268,
+      "sha256": "51297fd2a6ac1459cee8788dc31fe39bb89c8972fe5736e4c5b232683db6b07b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00583.vtp",
+      "size_bytes": 4337080,
+      "sha256": "a453dfb6a0dd17d3d82b0d00c5fe8c24affc9cc708cbd41df520785e259013c2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00584.vtp",
+      "size_bytes": 11080118,
+      "sha256": "2e9041f94d764bdf4137d013a1ca4e7959cc47ceb662aa87832220d0a0af69ee"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00585.vtp",
+      "size_bytes": 2670430,
+      "sha256": "219b0a7d9e4201b0f96dff6d008553984f37937bc03f9a08ddd7d2c5f90047b9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00586.vtp",
+      "size_bytes": 3901767,
+      "sha256": "57db9fc9d0f95e7d1cea0033951085b5ae797de103271fee1084cd4a6246f5cb"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00587.vtp",
+      "size_bytes": 4895163,
+      "sha256": "cdea88bed1f244e2880983820d091a9badce137477c8f39ebfa3d1e346e00d5d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00588.vtp",
+      "size_bytes": 9201120,
+      "sha256": "ea7ba7f46c836bfb6895a00bdde22fb7ff1976c40f240353492b4b035fbbd1d3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00589.vtp",
+      "size_bytes": 9070724,
+      "sha256": "b2d9490bb0e17861ad1d783d7efad193753d4e774d4c48b6b6f2ff274bd26343"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00590.vtp",
+      "size_bytes": 8196164,
+      "sha256": "c2d1cf8184e1d458ada1f0066cda7581654d7d045a357833fd5c34c7685f8da0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00591.vtp",
+      "size_bytes": 4553396,
+      "sha256": "89ce02d3c6680f935ce2700148ea2f78877ce2dd993eeb500b8a24bb2c57c20f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00592.vtp",
+      "size_bytes": 4134971,
+      "sha256": "dd123d7cb2ef65ea4e35994bb071c26ed4267945f380bb82689ba67f8d3c97ba"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00593.vtp",
+      "size_bytes": 1805029,
+      "sha256": "f90b43d7928f84c4b19e50fb4653bffa37b30fcad72dc8b00763df0e8b129b83"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00594.vtp",
+      "size_bytes": 2905048,
+      "sha256": "9d462d30bf3b76c9d5c546ab7016b82676e1fbdcedf8569ca3fc4b2a5c779d6f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00595.vtp",
+      "size_bytes": 7693373,
+      "sha256": "abe11a51cd27e9fc08819d6a176ae3516e928d36ea78d71c3a3b2065ca67c2a8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00596.vtp",
+      "size_bytes": 3509814,
+      "sha256": "df8177c2b4dcec3b2c8e6142635e5c496b133ac91b3be7bb1c353e67610fa467"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00597.vtp",
+      "size_bytes": 5094893,
+      "sha256": "eaa00ab74e5c5977f2e313c377aa51786348ffaeb62a5c643abfb1938011a597"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00598.vtp",
+      "size_bytes": 2849524,
+      "sha256": "94732bf91fb4c62ef069bba5dfb31896e27c9dd85789f8496b8e7d822cf2e335"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00599.vtp",
+      "size_bytes": 3104433,
+      "sha256": "353fc3156d21c732a84f68a19dcd477f10b5435c9e9aef6a1d1446e8e2b6f250"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00600.vtp",
+      "size_bytes": 2202068,
+      "sha256": "6f05cad430c2656d4da4bc504d43d65df9d1da56631b36fe67d97c16380b79ae"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00601.vtp",
+      "size_bytes": 5024253,
+      "sha256": "d01b801174674b8638626a87aab41d88fd667832253c26eacf85f1b325167aab"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00602.vtp",
+      "size_bytes": 4502433,
+      "sha256": "6122f1919a387042c4ee78b2f4289d84d6db43366409a83616725f77f8d20cca"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00603.vtp",
+      "size_bytes": 5437995,
+      "sha256": "3ed0d56391f1217277aec85b7116e69a621a18dec001800d2f597435e1ab9972"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00604.vtp",
+      "size_bytes": 17519988,
+      "sha256": "3706513747a3682477191b92d35b8d894115d1f4f252e0fc537b4ecaebc2c244"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00605.vtp",
+      "size_bytes": 2995389,
+      "sha256": "c7ebb15d8cb7e12f92e7a5ed9faa9908e0b93597ddf31c41f1033cb68bf727f9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00606.vtp",
+      "size_bytes": 2862074,
+      "sha256": "3d5c779149c013c4dc43b1e05915ff9417b5d203cba73d51cf36e45bccd1c8fc"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00607.vtp",
+      "size_bytes": 3599409,
+      "sha256": "419c7bac92807e9bc6636b2802ea1e2c52c9ec921cd19180a81743c0aa464cb4"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00608.vtp",
+      "size_bytes": 4251395,
+      "sha256": "4f1f954ed9e43123eb94df7f91a5ed3bcce20763bcac3e6002f5cdedf08858b8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00609.vtp",
+      "size_bytes": 4374286,
+      "sha256": "6a95b85c38ca91e5255e898c01e7fc35c7c961c060a96360212cae2b1654fc17"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00610.vtp",
+      "size_bytes": 6226791,
+      "sha256": "34b44ecc9d83c150a4f097361e59a20ba6e6c0242ed8720e42597c7c48c74941"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00611.vtp",
+      "size_bytes": 4409993,
+      "sha256": "169c72e5e0f6282836a02fdbfb6f21b734d2550d636c4999c19ad658a925e3eb"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00612.vtp",
+      "size_bytes": 6324163,
+      "sha256": "c7dc641b51814b87f84c2e9f54fd9d1a04a8340b3265cb0c33f68a7013b56506"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00613.vtp",
+      "size_bytes": 3574040,
+      "sha256": "98873a56359ebff7b79782e359209eb7c6ca3f4f41abbc07d40023f265f9ceac"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00614.vtp",
+      "size_bytes": 12854796,
+      "sha256": "ac5246bad4878eff58367942443c696454142b50012b4f78248409e6e084a337"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00615.vtp",
+      "size_bytes": 6502135,
+      "sha256": "f680fb82cbdfd5af02a43ffe6f7793f34ca1e2783c49c6bdeec5a31f2e458cda"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00616.vtp",
+      "size_bytes": 3682412,
+      "sha256": "9279bf2ab1068ccfc8b892dda85c41344e5ae425fefe9ec3390d215c6a588b94"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00617.vtp",
+      "size_bytes": 5806112,
+      "sha256": "e3e08223cf4cdf56ec17adcb13f5816ebfa895e1e535c1b72e80d91d4617b02f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00618.vtp",
+      "size_bytes": 4112222,
+      "sha256": "9e7b1cf78dade652d8b99b09187f9cf4c90a55cac7ac4f9c0d8ace54391c397d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00619.vtp",
+      "size_bytes": 4542017,
+      "sha256": "36442683de164aa75e57ec427f2460590aacdee97a813434ab4a0733d7f45f2e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00620.vtp",
+      "size_bytes": 3473288,
+      "sha256": "4505749968d8315a4c52a237aa80ccd009e8381663fe743986be226d71876fc5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00621.vtp",
+      "size_bytes": 5874091,
+      "sha256": "bcef7a6f525a7bce5ce15df6c9526dbfffd5abe92f4487fc7b2beec94dd18161"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00622.vtp",
+      "size_bytes": 5034800,
+      "sha256": "8ba19cb25a7321e2cfd06b27f317005bb5bdd5486317c1ff40625b226cbd5782"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00623.vtp",
+      "size_bytes": 3557977,
+      "sha256": "af0e859ce243e4a21a011f22d5125169753631ccc3941cfa0d4a17f43fb18cd1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00624.vtp",
+      "size_bytes": 4874184,
+      "sha256": "d3d00ead4eafc76400d2e7fab2755342f7044793bd9c6423b0937433156d9b9d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00625.vtp",
+      "size_bytes": 3689601,
+      "sha256": "3d85711f1966e4e514194a2cd64388d84451fb7bf984115ca3ef796a35c9e9f7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00626.vtp",
+      "size_bytes": 2974794,
+      "sha256": "c35e6d9784cff58735a186142147de031a608721b13d8ee7f826a68a4983f6f3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00627.vtp",
+      "size_bytes": 4225317,
+      "sha256": "b259760a2b4f10656de833fdeebacb147d91ec5688d9fb920d7a1fa68417b4f1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00628.vtp",
+      "size_bytes": 4810746,
+      "sha256": "459edc165b97d0b68f7bc0279a86dc092018fe17b3aa0a3331180c062e3846b9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00629.vtp",
+      "size_bytes": 2327688,
+      "sha256": "b5038a840b5071ce66ddd04fe6e0bf534abd30915f2fb4bb52ede20d04c4cade"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00630.vtp",
+      "size_bytes": 3870567,
+      "sha256": "c9556eac0e297fced2fb12a1a672f6943134e49e1d6781cc749339549c28db64"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00631.vtp",
+      "size_bytes": 4394675,
+      "sha256": "8f1d1e5c10a1befe812ec611ab2cdd3f7f8602996dcc5602710f6eaa21330f24"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00632.vtp",
+      "size_bytes": 3236320,
+      "sha256": "352c6efce1a3620bc234ad323e9c48038f8af07fb3fa40248cb7cf404eedb873"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00633.vtp",
+      "size_bytes": 2952555,
+      "sha256": "9fc05c7350a4c56ab0568a935618d4bccf3431f1aa1ee50a17bb8dba8a18c78f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00634.vtp",
+      "size_bytes": 4129954,
+      "sha256": "bf400ae8f06fb1a016f26dc02ec814ea6b0038edd7fa85882ff2c347894364d1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00635.vtp",
+      "size_bytes": 6925321,
+      "sha256": "e0085ecf6aed1f443a5044377191e584d8f6c59ffd3ecfee9f1d74c0ea3dbb3d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00636.vtp",
+      "size_bytes": 4786026,
+      "sha256": "ea620ef6bf595ddbbc6639bfc1eba06d95a8ee6bc095f2692adacc9dc7805209"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00637.vtp",
+      "size_bytes": 2067660,
+      "sha256": "b6537bd9b758529b1c0f138d6aee4ae190728169af4ac8cf5acdbd96e4248fd3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00638.vtp",
+      "size_bytes": 5142748,
+      "sha256": "76b6d7e490fe2884c968d4083ba8b1bc2d5ba5ce73dae08a13b42f74ca5293ac"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00639.vtp",
+      "size_bytes": 7458252,
+      "sha256": "df668a8a89fa900fcf84fc68f6dbdf0caadc723e9fd58a14bb109fc8228170de"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00640.vtp",
+      "size_bytes": 3670076,
+      "sha256": "b11b10e476b5bc1350e65fc99e0e4f166ef03256053e9467404fcaee8fa7b54d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00641.vtp",
+      "size_bytes": 5471606,
+      "sha256": "522006a484cb2a3fa0dabf9a1d6cb5eab2d71db19da1969de1361e71814399f9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00642.vtp",
+      "size_bytes": 7078564,
+      "sha256": "3e63b9c12ca4bd6aede2b77b22279d4a4e05b07dca6b037b225d045c913a056c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00643.vtp",
+      "size_bytes": 2599616,
+      "sha256": "6ea3ad7c58e102b898675b3273afeaf359bbda58b8b3287b5d959702e61241f0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00644.vtp",
+      "size_bytes": 4318191,
+      "sha256": "b049bbad57382b21d8eae307e2dc915dbdabb076780224c15f50382a5b0cd775"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00645.vtp",
+      "size_bytes": 7150764,
+      "sha256": "b03fd94f3a6d111dc94eff60b92e3e1d00ca73a7f4d27f5eec24edf71625a5c9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00646.vtp",
+      "size_bytes": 7030986,
+      "sha256": "68d0a20bbfe384529c0694760e5d43839bceb758b046278261267310a57af359"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00647.vtp",
+      "size_bytes": 2825890,
+      "sha256": "a7ba93d7a8ca544d879678d9cbe75ef987ee9386733b43064cd65762a04ea2e8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00648.vtp",
+      "size_bytes": 8426357,
+      "sha256": "558853745661c6b776bcb12fb6dab61422332afaecb1957d46779f6cac2a4f2e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00649.vtp",
+      "size_bytes": 4706900,
+      "sha256": "3aa88311f3f3519099e8bf0177d73918f664425922534e9d9db7d14a0f18036e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00650.vtp",
+      "size_bytes": 6547789,
+      "sha256": "076beb421709bc7916fcac73f8c60f3ab70c1d82b889c9f572454ded0ca59508"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00651.vtp",
+      "size_bytes": 8019512,
+      "sha256": "ee91b7be6e27bccad63be860b2f173fb3e71eb3010e02650078b926f83418b06"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00652.vtp",
+      "size_bytes": 3367129,
+      "sha256": "51970601cd26dfb46f439a76ea412543ec49698f74df1ef270e485773e684a24"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00653.vtp",
+      "size_bytes": 1957784,
+      "sha256": "4ab7100d1c943a81ab4c77a5a15b7ab7aa2f4d0f019979957941e4099e434ed0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00654.vtp",
+      "size_bytes": 4233796,
+      "sha256": "a340edb430bda7cd8470be58d1c11f2f56b3b5eacfbf2a3b045bdc005f789ff0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00655.vtp",
+      "size_bytes": 1760245,
+      "sha256": "64f2feb30b92655cd2b9fd65ce15f04158dbb7b0ff4648538b072b1f5c32d402"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00656.vtp",
+      "size_bytes": 3997650,
+      "sha256": "592c6617189254fe48a9eead5581504ad54e4c60190cdeb83b6f645935c31cf8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00657.vtp",
+      "size_bytes": 3979868,
+      "sha256": "8a73352427a8c888047a0e6337a721d7efe8d5e7f86c24d1e502ec49ab4ab727"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00658.vtp",
+      "size_bytes": 8058499,
+      "sha256": "ccdd5a1f036a848c7c5a3692550b73770d975eea31d1c3b54ae1ba30bc2333b4"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00659.vtp",
+      "size_bytes": 5915927,
+      "sha256": "a84b61f154954b3a9f691ef6935b89bfb5fc49e5366fef3b3469a931f38fe04e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00660.vtp",
+      "size_bytes": 2574514,
+      "sha256": "1e0eb46e3c691c759c5311ad16a02ee7d7aa616721700f0316229bf3148bdf2e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00661.vtp",
+      "size_bytes": 4661360,
+      "sha256": "a200aefebd15d55afa56132797931c08822a673050d76b12553b85554a34874e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00662.vtp",
+      "size_bytes": 3550499,
+      "sha256": "4226672f14e5e36b4d00ad5b0812934b83b974c7d3282b36c3c77771408ba9fd"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00663.vtp",
+      "size_bytes": 4029095,
+      "sha256": "12d9dec4df45d80043dd64fe5359243d4e411706635093c8ff47e42655e6f142"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00664.vtp",
+      "size_bytes": 5321187,
+      "sha256": "5b151a167efc2df7b47f3dbe4677228b4d9594a211ec3195c3646623a9de94bc"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00665.vtp",
+      "size_bytes": 6502268,
+      "sha256": "469bd4e47639b2fa6619c14301793c7470c4cb8e5f133ce65fd25fdb5207711a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00666.vtp",
+      "size_bytes": 7914316,
+      "sha256": "5b7fe4bb8a72a7f6e4e120a355431ea19daba544dcb4a5bdc8cd5feb17c123a5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00667.vtp",
+      "size_bytes": 8108215,
+      "sha256": "69ad6bbb8f0966ab6feb0f7142a500243ea2daab95aada70a6cb7d44c8fd83ec"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00668.vtp",
+      "size_bytes": 3956668,
+      "sha256": "096a3e98e65c4fdd9f8b9fa8dbf5cba25f85acc38de6811a13d998bf44f170f6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00669.vtp",
+      "size_bytes": 4781756,
+      "sha256": "a37ad64feec32f2345a46ee59f3c9c0a9e469bbc349d3028c6a21fe54122e1b1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00670.vtp",
+      "size_bytes": 7970088,
+      "sha256": "faf1572b812bd580c549d7b5c69fbd0ba79f438d3a6d2f1a47afb21cdc924e4c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00671.vtp",
+      "size_bytes": 11393368,
+      "sha256": "d1afaf4ffe5889fa70e259477e6c41aa6fce1f5ee717104e0c17efccd19e3fce"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00672.vtp",
+      "size_bytes": 8845433,
+      "sha256": "eed8b352440b732f7777dc894a74dbcfc38ac527a1713503b4d6d41bd66ac19c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00673.vtp",
+      "size_bytes": 3508610,
+      "sha256": "9bd10d3dcad80b350710418f9d221e4ded53e2bf840f00d47c4a5e11d82e9cc0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00674.vtp",
+      "size_bytes": 4198925,
+      "sha256": "e33fb285115a6633b9e3517ebfc7034ee31dea2e6e4456a23a4cf317c0cfeeb1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00675.vtp",
+      "size_bytes": 3550726,
+      "sha256": "0a279e3449d04cc4556d03e2a0c1333d3d684fc4e9fa34b426cd08e8be4941c8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00676.vtp",
+      "size_bytes": 4403067,
+      "sha256": "ba7988a0efbc764722604ea959763f3e6213f40421c92ca76ade631aeaf24ce8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00677.vtp",
+      "size_bytes": 4772893,
+      "sha256": "b6fe80312d0e4b3b9faa626afafb28734fa74e75ee61f362ad8f9333dcd2f7f2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00678.vtp",
+      "size_bytes": 4181862,
+      "sha256": "1fccccbb0ac31cc59d9691dc22743e8591dbd897c87d1663a3c1ae6b31aca2e8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00679.vtp",
+      "size_bytes": 2971898,
+      "sha256": "6afa1bf83d3b6c5ee1c8922a121ab39a251f467dcc95edda4b7f8a141ad9099d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00680.vtp",
+      "size_bytes": 923555,
+      "sha256": "dd3317b13fad30f64070fd2ea8dd1f4769d796044f1f6d6712f1d26c77bc8152"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00681.vtp",
+      "size_bytes": 5707650,
+      "sha256": "961a40ddfc0b3ee066e47383206257eabda3b202298a738e5ff2b1ef14ce31d6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00682.vtp",
+      "size_bytes": 6437044,
+      "sha256": "76e925806695553c91083f29a240f631da8ec4cbfce7994a32965f09b537e467"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00683.vtp",
+      "size_bytes": 5144493,
+      "sha256": "6fb430ac509a43e739974ff5ec700d7bd007d5ccf734c29cf04120ebd7377bac"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00684.vtp",
+      "size_bytes": 7024540,
+      "sha256": "755594c995cbf4abc13352035ce206dc94aac2bce285046e0e88a8630c594f7e"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00685.vtp",
+      "size_bytes": 4417582,
+      "sha256": "ffc70b5522f94db0184e7a89e586c3bea9f2d3e98d37fd72910363c44a35813c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00686.vtp",
+      "size_bytes": 2322083,
+      "sha256": "384305cdffb4088f31c9611ae9d82bcf31c458e14404319d707bd6ad5e5629df"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00687.vtp",
+      "size_bytes": 3092720,
+      "sha256": "01469abebb2ad2e3330b85233653ab38ae60bfa92e76b55906e07818ecd89431"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00688.vtp",
+      "size_bytes": 10518772,
+      "sha256": "1b77f418f8f15d79890605d78f10efe873606d5f5e87b76becc4cb2f22ad6e49"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00689.vtp",
+      "size_bytes": 4505405,
+      "sha256": "2ac1429fe6a7151d13c2b060ab76933e4cd09b612099df2b2d3ebfae52d1efb5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00690.vtp",
+      "size_bytes": 11232645,
+      "sha256": "3da16140b8eba08374ca3552d05c9c85f38ac4e1ddff966e70b8502dda32c24b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00691.vtp",
+      "size_bytes": 2674405,
+      "sha256": "9dbe7903a74a272ffb55528f60a3bab73b359eaa46401fee6edfb607c03d0516"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00692.vtp",
+      "size_bytes": 7106614,
+      "sha256": "c6d87ffe0cbd6219b1b726fe68ed2a3167b5d21bfebe79698f027a1ee57b1c83"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00693.vtp",
+      "size_bytes": 6069253,
+      "sha256": "07e50211748acb8ffdec1f34bd8f1e76c463fe21380342abe19e6ca340c61ac1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00694.vtp",
+      "size_bytes": 4587280,
+      "sha256": "f739998b867e8589956968cf77b4b6cb1ea924070bf74d6dbac7e4c0ab87b517"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00695.vtp",
+      "size_bytes": 7537618,
+      "sha256": "67ec7fd185089c2016d3cb0e55831663197fa258541b593ea8463c06ec09ed95"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00696.vtp",
+      "size_bytes": 9318312,
+      "sha256": "55bd7e472a4b745ec12ffb1e7c569b3b39bffe3a03467618c668d9cb2e7d8731"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00697.vtp",
+      "size_bytes": 6867126,
+      "sha256": "e5bab5505fd5e5b20e9c86d0be9333e7b7e5ec5826d3f21f2249e19d91a99129"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00698.vtp",
+      "size_bytes": 4171256,
+      "sha256": "24b7d5a61dba6b56ceddec190f30245af15d2ce59b0c77c9574cb84f99506499"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00699.vtp",
+      "size_bytes": 10767236,
+      "sha256": "8314d488e1645f22ffebad3bafc8b764a22304002ab9061e5caf787927d1079b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00700.vtp",
+      "size_bytes": 5392893,
+      "sha256": "cd99f42a725d917cea2f46a6fef75cd379f1f27754766a7b4360b8490b3f1b8b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00701.vtp",
+      "size_bytes": 4143890,
+      "sha256": "586e04019753bcf9dbb7769f8ab052c922b15b0df807ed5a0f9bd49f0db8a25d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00702.vtp",
+      "size_bytes": 7876078,
+      "sha256": "375a8e27cc8e4a5f36c6a121bdf7515a1427abc9b0fe8a7417e170bf12b3c5a4"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00703.vtp",
+      "size_bytes": 4649935,
+      "sha256": "826cadf8a22755b820683e29065a4206532e2f990837b88132aaa505f2e662e9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00704.vtp",
+      "size_bytes": 8551680,
+      "sha256": "1d78f76ab1d00ca9492646a38008d186879e4d648ef89da7d2c9ed6cbaa14b15"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00705.vtp",
+      "size_bytes": 12833280,
+      "sha256": "da5b55c7a40418060d86cda6b4d2087cf92ad67aedb9731a724eacab79f17b17"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00706.vtp",
+      "size_bytes": 4118593,
+      "sha256": "aa12651e60a701b23ed2360c343e4be3d09cae007ee54a701c77e2c2a577d817"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00707.vtp",
+      "size_bytes": 5509184,
+      "sha256": "20fda94fba360569a26bd2170ba94e06e07db42e574e269e621a2675fe552d5b"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00708.vtp",
+      "size_bytes": 2960332,
+      "sha256": "2c4662d38d10c0396f7105e1f707e05369775337e211137092b39362308526c0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00709.vtp",
+      "size_bytes": 7718932,
+      "sha256": "1811a5aa01a8d28065f8114224d3d30e08d9f79b7268c1e8bc9905ebac64bca2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00710.vtp",
+      "size_bytes": 8100536,
+      "sha256": "130fd3a1fe4728f3383d1f382060cd366e707bc79b8c4d38a4027009505bcf3c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00711.vtp",
+      "size_bytes": 4558019,
+      "sha256": "cca0f14b7ca8e89a5ba9e49e811eefa2f11773aec4d9935f2af470347f631f32"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00712.vtp",
+      "size_bytes": 3062237,
+      "sha256": "56458d64239eb91a57d7b2b2f07c2d4812c6ea2d5da3a96967b27158f60d64a0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00713.vtp",
+      "size_bytes": 7755912,
+      "sha256": "ed9464dba9d2059538eb4a90d2d09a3c843aee13bbd13ed98b19c9529c03e1e4"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00714.vtp",
+      "size_bytes": 3711637,
+      "sha256": "0e4ded4bdeb17e07d9d73270b28450d65d5ddf0e9964a3637992171da9e5240c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00715.vtp",
+      "size_bytes": 7055928,
+      "sha256": "b8aaf37a8f0dba67f5ca78f604a09abde097b2f2f2671e838782e6537adb52e8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00716.vtp",
+      "size_bytes": 6085424,
+      "sha256": "9018e2e22c4c967977fea27e406a485e56434a582f873b904b2690b950ad2e91"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00717.vtp",
+      "size_bytes": 8688191,
+      "sha256": "69c8df4b98cea050957a7ca121c60ebce339a415d0c198682370f1b39b2b70ed"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00718.vtp",
+      "size_bytes": 5202524,
+      "sha256": "d1c95d67a4a0ad35a350d522b1a93e0049ce79c3f26d2b25b0f99c0210112bd6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00719.vtp",
+      "size_bytes": 4804782,
+      "sha256": "c76c588143cf8505844e7c63983d135930507a1de7e3f9e9e88fd030a073f254"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00720.vtp",
+      "size_bytes": 8078390,
+      "sha256": "8faa420b6dee6a5fef41035d07a3d1e28282c7a4aa80faa354dfa3c8bc37baa0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00721.vtp",
+      "size_bytes": 8450295,
+      "sha256": "7cc44eda702bb55c77a221fedd1b55b39c6b610684a51cd05192daba2504d658"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00722.vtp",
+      "size_bytes": 10434871,
+      "sha256": "df4ed7b6e7efd14ab34806e706255c36d394f30dab415c19277ffd53a4077fc4"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00723.vtp",
+      "size_bytes": 2956299,
+      "sha256": "89e0af275f6b3aea0468a8567ce3e1eca25c1318dc3f9300b1930eeb98dae2c1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00724.vtp",
+      "size_bytes": 4209712,
+      "sha256": "a686365da9a2e5b5925d265218c2b3728d0a62dce9847efa54268b2bdfb91377"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00725.vtp",
+      "size_bytes": 5998315,
+      "sha256": "323fb153d8d527d120aa5e73a9f09101dbde754f3e80e10a6a3d1b250920a76f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00726.vtp",
+      "size_bytes": 2873121,
+      "sha256": "14b01fafa6d96d4f71f31f0fcd98eaa6f3fda3f4f1cc5f5d1c640a32d4e90ee1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00727.vtp",
+      "size_bytes": 5266375,
+      "sha256": "312b849e9643e3a52417bb3f4a10efba16489afef4fe79292e6740da4b2fd410"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00728.vtp",
+      "size_bytes": 6900860,
+      "sha256": "f9cfedd94bcd51a9fbd931f485bafa9ff21e407757d2ae196aeeae874b907c00"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00729.vtp",
+      "size_bytes": 10704019,
+      "sha256": "9de69e98372f469a5c219d8af5b6b1532644466829900993089805fc6bdc7e35"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00730.vtp",
+      "size_bytes": 12042476,
+      "sha256": "7f5b7be01fe0986f7ff64c6081d15a6728114cd5b14531a9a0fd0088bc81f23f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00731.vtp",
+      "size_bytes": 5072034,
+      "sha256": "701652aecad4d7209f37eab54f5a098270ccb8b6a5f171450b44e220dc070e17"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00732.vtp",
+      "size_bytes": 4342064,
+      "sha256": "8c8637e138ae4c197944850651a7068884357080ddfac04c43277e868e8a7f44"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00733.vtp",
+      "size_bytes": 4579784,
+      "sha256": "4c25b3b5693a91c89e4b30ac99d4e524c0e866b723ce6bbca83e8981b632587c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00734.vtp",
+      "size_bytes": 15312678,
+      "sha256": "154ce6ad996b20afd7c53e4e11933a1f5e32a8d62928c59ae020a32a7b848012"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00735.vtp",
+      "size_bytes": 6850139,
+      "sha256": "06ed683f1549030fbc7418a7a47d2a6412b54d5ffc48049570a1387f2188e33d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00736.vtp",
+      "size_bytes": 9236591,
+      "sha256": "ae03fb4aa9c35bdbffcd49575435568d414ef9052703ac18e9c6a53d75a96809"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00737.vtp",
+      "size_bytes": 2625490,
+      "sha256": "9ebf7cd891840b6d835e77ec3f530481a6a39387bf1d6bb3597196366e3e83bf"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00738.vtp",
+      "size_bytes": 6829324,
+      "sha256": "9a0f42c53ad19f775680630bf2249d12b3ae4811172571f81a8255ac6ef91346"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00739.vtp",
+      "size_bytes": 5921896,
+      "sha256": "9df9c83ba1598a5efdea044614f5c396060f9e12aa17716c67ac843a438d561d"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00740.vtp",
+      "size_bytes": 7238888,
+      "sha256": "1701b368a9321a8ed278d63d1ddbc854afadeef802acfcd936990292a3191aef"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00741.vtp",
+      "size_bytes": 7040112,
+      "sha256": "946b67f9ef6ca70105945a3b4af23527723708845a88ef4603955988c4e83ba6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00742.vtp",
+      "size_bytes": 6068173,
+      "sha256": "63790560a9d46a8acc8ddfbe3b469599ed3aaf8160f9e80f17d8abd0444cf477"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00743.vtp",
+      "size_bytes": 5538885,
+      "sha256": "ca28522049943560a64cd2651fd231282137323a85cf60fa2fabc6dff0c82aae"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00744.vtp",
+      "size_bytes": 6396610,
+      "sha256": "6856efbc0e173ce86881e847634ec63ee6c68b1e3a8981872879cb34e089c8f3"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00745.vtp",
+      "size_bytes": 7019066,
+      "sha256": "738889b164ddfdfa537616993c62e60803a031ee43fad056d3d4251e90c0be07"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00746.vtp",
+      "size_bytes": 4828545,
+      "sha256": "7d0a955ccb86b01f20d51d41bf7ebe7bfb9499ed9c3370234115415bbdf17378"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00747.vtp",
+      "size_bytes": 5489231,
+      "sha256": "87c70eab5b7434a52e31396c4264aad197c6a9940b88e2cc6a35d6d892d5f790"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00748.vtp",
+      "size_bytes": 4686583,
+      "sha256": "9690ab29831be859326e0ead86e0294a00f79dc1771000feafeff48956c5ce43"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00749.vtp",
+      "size_bytes": 3182340,
+      "sha256": "8bcddc205d508e70186a6738cfafc44e07e2cffa7b22a9c2090d29297b72b3a8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00750.vtp",
+      "size_bytes": 7056967,
+      "sha256": "6f107387d2b5a75cab84a237e00ad6b6caa414abcfdec3c383489f1b646f47f8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00751.vtp",
+      "size_bytes": 12521756,
+      "sha256": "d5b3135984185d80b85a87c7f7225b9ffc842d8f0cfb10ad26366f1d52869867"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00752.vtp",
+      "size_bytes": 9766148,
+      "sha256": "e1750d38cf94aaffdd1e615f276889e226a48023293a5f4a6202f57d69fe7a54"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00753.vtp",
+      "size_bytes": 3418026,
+      "sha256": "d2fb96496c26837a2093845b5285ac29150f2013ea867b41d3feb52b42f9dd2f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00754.vtp",
+      "size_bytes": 6598803,
+      "sha256": "8d584d4dc7e039577a8bf2726046961145432151728c52d46ce52b4871c51541"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00755.vtp",
+      "size_bytes": 5269070,
+      "sha256": "61881b689d249b5e3b068983c33e7680d9646921c0864f3c36a10c30bb1d1b8a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00756.vtp",
+      "size_bytes": 7286921,
+      "sha256": "1cda196cdf07b3d378d089b42e66a6381d41982cf8026d2d987e1da5456f562f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00757.vtp",
+      "size_bytes": 7740937,
+      "sha256": "30f6efb537a7038cdd4a55538eef090838b602d05c7ed56df650941b37ec67ba"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00758.vtp",
+      "size_bytes": 2660032,
+      "sha256": "38a3376c58548448f1ca9de1eafd68b60fdbf50102728f0e11bc6779e859288f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00759.vtp",
+      "size_bytes": 4743960,
+      "sha256": "f3f482c7ce6a349e0d5dc42e0345824c00b3c8ce6747bd2e2048763347d0afde"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00760.vtp",
+      "size_bytes": 5196489,
+      "sha256": "fd80c565adafb236af04580ed8f58b311a5904ee7c4234e87082faa012ac33d1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00761.vtp",
+      "size_bytes": 4701604,
+      "sha256": "76bdf488332c0c2e7f741fa0e9dd44b96d59c5001c31d1b08e27df7296d6c85a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00762.vtp",
+      "size_bytes": 6442800,
+      "sha256": "08649f2b84979b3d01e754c6191c63cf69fdae8cd38330651b2189e273ed0cc2"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00763.vtp",
+      "size_bytes": 3528084,
+      "sha256": "8c63670f6a401c29b3255fbbc5e9e6af4f93eb9f897ae32982de0f7fc61e1602"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00764.vtp",
+      "size_bytes": 5185264,
+      "sha256": "d00734fa29f0d8c0b559e45dfb9eda20f0bca480920064790c2c553fc434c3af"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00765.vtp",
+      "size_bytes": 7924341,
+      "sha256": "01429a1cb7289eb5e7ca70b52e70de3f7fc181702d0901d4db859e9eb3708197"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00766.vtp",
+      "size_bytes": 8448216,
+      "sha256": "6f23419b7f4227045662caf87af78755b4c1341c0983e4982a7aee5ea45b7c0f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00767.vtp",
+      "size_bytes": 6707745,
+      "sha256": "a8ca4fd208d5d76b7e385a096a2dde1c073f9a3d69cae7d67b9737c507180543"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00768.vtp",
+      "size_bytes": 9980479,
+      "sha256": "47a6dce11118b5e8702aa61feb71c97e679b859a0a5f3b44ca8ec2bde39d7bc9"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00769.vtp",
+      "size_bytes": 6457324,
+      "sha256": "e776c4888718cb5b7c7a4daa2b7af5b90aabb1763db38d48d829846103d62922"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00770.vtp",
+      "size_bytes": 4916864,
+      "sha256": "0bd2b683ae2c553406b5a62260322d588048bbc3836027dfb05caf8f628bf78a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00771.vtp",
+      "size_bytes": 4399265,
+      "sha256": "eb2e6a9dbc18c3d6d74ea7590ebda999c21cd45bf982045c3e6a88261a4619b6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00772.vtp",
+      "size_bytes": 6634613,
+      "sha256": "7a5fdb2b8b68d2902c56ab3ca2e385be266b61e982859a1c67e2a269b177a9b1"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00773.vtp",
+      "size_bytes": 6358686,
+      "sha256": "41cae041974ebcb43e192a13970fac24af9cd68f77b40c547ea21304fd69f6f5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00774.vtp",
+      "size_bytes": 6541559,
+      "sha256": "a72f6456b3ed2dda2418b06beede6012636557b65f897b26185e8fe2bc4a54d5"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00775.vtp",
+      "size_bytes": 6283012,
+      "sha256": "bdc1cc106bcc09c95f2047bbe14a606b08af5c1adf0dd1d77b9ba931f7841140"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00776.vtp",
+      "size_bytes": 5364241,
+      "sha256": "af5a3c4e098b5be486435bc96028920e7a78397561cbbdd2e57552583f9b7913"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00777.vtp",
+      "size_bytes": 8083348,
+      "sha256": "76367e6a13a9a220058753795cbf9efe844f931976675e321cdfc60508d068cd"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00778.vtp",
+      "size_bytes": 6486616,
+      "sha256": "a0dce6fcf63fdc910138a01138fec883ec486edf15ea4dd17cced7eb2e260565"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00779.vtp",
+      "size_bytes": 5672215,
+      "sha256": "3ea30c555ea89506723b9730c4c6ed0cb45075bfb6f3c55caa2475ef68a568bd"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00780.vtp",
+      "size_bytes": 2951914,
+      "sha256": "6b7ca5bbe50a323e9cc19f895b7aa2b89e8d712ce6e5e96f43e93ccba7ed4fcf"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00781.vtp",
+      "size_bytes": 4917286,
+      "sha256": "a64f678358659d8a76f7eebccc82ec03a41401fba81f1ee789ec4068ac38156c"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00782.vtp",
+      "size_bytes": 3441753,
+      "sha256": "6c17c3e5f5c9ab1143cbb6c9351fee0b60bd59c79a69b1ac1f47535510e76120"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00783.vtp",
+      "size_bytes": 6421894,
+      "sha256": "63fb92b872ab5ea550e9e17852df5e6a054c9a0c8ed7e1b97f7852bb5b286070"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00784.vtp",
+      "size_bytes": 4366978,
+      "sha256": "3d8244e0cac82fbbf6de29d78ad64d171bd92815c4001e5e86133511febabaa8"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00785.vtp",
+      "size_bytes": 6065830,
+      "sha256": "c1458fa0c9dd1967971b021f1ba15a892585f1fe7390acd7f165d0713780e13a"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00786.vtp",
+      "size_bytes": 4508031,
+      "sha256": "08c41c8cd0a46697c6f834c7ec02a8b601481e74346413c278d2c9f677dfe128"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00787.vtp",
+      "size_bytes": 4138940,
+      "sha256": "bd604921e80c70543a91a8eef9cf67b69d8f127694be6164cf18d9df452a026f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00788.vtp",
+      "size_bytes": 3343480,
+      "sha256": "659e7eacd3bff8b01177f472781eddca6de263de1398344a47199d8e89d11a86"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00789.vtp",
+      "size_bytes": 7572162,
+      "sha256": "7967afce3ede46685c68b8a1d00f28f17d978bcc601435cb1bc3a98bfe730544"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00790.vtp",
+      "size_bytes": 6388228,
+      "sha256": "243f596f06a16f818ddfe977a231cd1b0bc013c650323a13172123c7a3829ad6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00791.vtp",
+      "size_bytes": 4681330,
+      "sha256": "5cf1f45add9342ddc630a66403cbbacfb125aef36293c6e1bbd6cf4ae57ddcd0"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00792.vtp",
+      "size_bytes": 4254319,
+      "sha256": "2c4f628d24da8e9a15d701b4375a75849f76e2d33f13196d16a4cdfa41026e66"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00793.vtp",
+      "size_bytes": 6522213,
+      "sha256": "8e966dbbc8b1604f22b8b96a6db84db10fe9b56c2fd825ee764b8a6d0b937ce7"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00794.vtp",
+      "size_bytes": 5493652,
+      "sha256": "a44c1168cfa67d6ca195c526733edca2a826b2fcd10f36999ead2b28c11aae7f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00795.vtp",
+      "size_bytes": 3856423,
+      "sha256": "4547c8291f97cdb8b0c1e67029912bdc9378d0611334dddad67f091f7957c031"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00796.vtp",
+      "size_bytes": 3741661,
+      "sha256": "8be48678463720bab40e380543e2d3122269e714fa776c654a9737cd927f0138"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00797.vtp",
+      "size_bytes": 2327308,
+      "sha256": "bb9b8eb903435b5ffad8946bbe759ae933ded82834debaec1c40f797830726d6"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00798.vtp",
+      "size_bytes": 6194173,
+      "sha256": "e57ef769d8b28c771a252aa2f6e2b69cce81ba67350d3db65cbdb33442597031"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00799.vtp",
+      "size_bytes": 3656280,
+      "sha256": "1f1c84d07c721fa46552aeb7aac89f31c110c1768047fecf2d1d5ca1f92695aa"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_00800.vtp",
+      "size_bytes": 3075360,
+      "sha256": "2d80066951fe7f59d9b6b05a0af2e283668bf8dc188adcd72f01c6ff9268295f"
+    },
+    {
+      "path": "East-West_WM_Atlas_800FC/cluster_hemisphere_location.txt",
+      "size_bytes": 16828,
+      "sha256": "f9f24eb8cea4744bf2d3dc0ea81f3447d4f7236f3aae2e15f257e0171ae8b1a6"
+    },
+    {
+      "path": "East-West_WM_Atlas_Reg/registration_atlas.vtk",
+      "size_bytes": 13204345007,
+      "sha256": "299bf7a71102b3570a6eb018fed8928a5ec8b75b28db94f0d3176e323b5ea30e"
+    }
+  ]
+}

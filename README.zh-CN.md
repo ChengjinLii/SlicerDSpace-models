@@ -1,14 +1,14 @@
 <div align="center">
 
-# SlicerDDSurfer 运行资源
+# SlicerDSpace 运行资源
 
-[代码](https://github.com/ChengjinLii/SlicerDDSurfer) | [资源分组](#资源分组) | [授权说明](RESOURCE_NOTICES.md) | [English](README.md)
+[代码](https://github.com/ChengjinLii/SlicerDSpace) | [资源分组](#资源分组) | [授权说明](RESOURCE_NOTICES.md) | [English](README.md)
 
 </div>
 
 ---
 
-仓库保留 `SlicerDDSurfer-models` 名称以兼容既有地址，但不只保存权重：
+`SlicerDSpace-models` 不只保存权重：
 模型、图谱、模板及必要的大型非代码运行资源均在此分组管理。
 默认 core 仍只有原有 31 个解剖资源；其他资源按需获取，不随插件代码全量下载。
 
@@ -23,6 +23,8 @@
 | `brain_mask/synthstrip/` | 作者提供的版本 1 主模型，采用 CC BY 4.0 许可选项 |
 | `bundles/tractcloud/` | 最小推理权重、参数、308 字节图谱参考、原许可 |
 | `bundles/wma/archives/` | 两个固定版本的 ORG 官方 ZIP；不重复提交解压目录 |
+| `bundles/wma/east-west/` | 东西方成人图谱的按需运行包、署名、校验清单 |
+| `bundles/wma/naba/` | 新生儿/成人图谱的按需运行包、署名、校验清单 |
 
 PNL 与 TractCloud 的权重不能笼统改标为本项目 BSD 许可；须保留各自完整协议与引用。
 WMA/ORG 官方 Zenodo 记录采用 CC BY 4.0；同时保留上游附带的 Slicer 协议。
@@ -73,3 +75,23 @@ GUI 中使用“环境与安装 > 准备所选分析环境”，确认许可后�
 Python/Conda 环境、CUDA 库、FSL/MRtrix/FreeSurfer 程序、安装器缓存仍由独立 runtime 管理。
 不迁入用户 DWI、临床数据、训练/测试数据集、分析输出及逐被试生成的拟合字典。
 资源齐全也不代表对应软件、GPU 或科学 QC 已通过。
+
+## 三种 WMA 图谱
+
+`--wma-atlas org|east-west|naba` 选择图谱，默认仍是 ORG。
+[East-West 论文](https://doi.org/10.1038/s41597-024-03624-2)对应东西方成人人群；
+[NABA 论文](https://doi.org/10.1016/j.fmre.2025.12.030)对应新生儿和成人，不笼统覆盖所有儿童。
+新增两套运行包使用小于等于 512 MiB 的 Git LFS 分片；仅下载所选 profile
+`wma-east-west` 或 `wma-naba`。原始数据字节不变，保留配准图谱、谱图谱、全部 800 个参考簇、
+半球归属文件与束定义 MRML。`ATLAS.json` 记录来源与原始压缩包校验值，
+`extracted_resource_index.json` 逐文件记录 SHA256；解压树只在本地保留。
+
+离线镜像可先克隆元数据，再只取需要的图谱分片。以下以 NABA 为例；East-West 将路径中的
+`naba` 改为 `east-west`：
+
+```bash
+GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/ChengjinLii/SlicerDSpace-models.git
+git -C SlicerDSpace-models lfs pull --include='bundles/wma/naba/archives/*' --exclude=''
+```
+
+插件的准备工具也支持直接 HTTP 下载，无须克隆资源仓库；安装计划会列出下载与解压所需空间。

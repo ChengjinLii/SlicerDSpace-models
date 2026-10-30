@@ -1,0 +1,200 @@
+{
+  "kind": "wma_atlas_resource_mirror",
+  "atlas_family": "east-west",
+  "records": {
+    "bundles/wma/east-west/archives/runtime.zip.part-000": {
+      "sha256": "bd8f0bfcfc19df84dab6cf0ec0cb859f1b7eaac40bdb21b741f7ebdf7d7c818e",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-001": {
+      "sha256": "5952934a335bb6d52c892beaa91ec3caa61a5abc285de3e89b1041f86682b141",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-002": {
+      "sha256": "ba63f4edef858c08b8c3ffa202347cdc465c5d578cc4878e98644be0d334dea8",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-003": {
+      "sha256": "8cae68c08350106af1117aadadf01e64f5400e1d931ea78b79d795391a00a607",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-004": {
+      "sha256": "292d52426ba90a478ae3ebbafd94b7761d41b71f083b46553f8fc6ae9942ca52",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-005": {
+      "sha256": "d922c005b9beb30b018b0b56c9ce68020a31933bbb9fc8b7ee5179a748a0ae4d",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-006": {
+      "sha256": "0209cd78bbfff5f06e628983a5f20bc49f55a02835a2bbd10edbf8deb0c1261b",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-007": {
+      "sha256": "b189d27b34d8db84240a38afb77182fc560299a99ed93d8e9ae7c1ce6f8fedc1",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-008": {
+      "sha256": "1a0166d85f218fc62556f28c05ceabc8b3870f0b00dd49125a32dc503a4005ae",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-009": {
+      "sha256": "8bfc6d93f926aaf849b1f049c6be9ed1b9e917fd0559a66cc21f4efe29379014",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-010": {
+      "sha256": "3da5a0c191f00d16db5fc88eb4e90f2b90580c21749e3641a5714a6ee4df8d43",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-011": {
+      "sha256": "abab33077feb790d5d01b916e59a09756223680b249fbde418c00350cb93e2be",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-012": {
+      "sha256": "55a91c82455e174a20a8e37306bbc9638bfbad4bd44325ac212e3bc79c72e342",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-013": {
+      "sha256": "a5d4d5bc5ed8b546e81eb70704ddffedaef673e7ac1a1974e3bc452056bb3ed4",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-014": {
+      "sha256": "9d7286bc89bdcee41da3c7a9188380a5745047cb554d37ed32d46a77269cf531",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-015": {
+      "sha256": "bbe1152fc2bbd7676112cf7f563737bfaaa0817cf2e518340fe18d3ef5cbf675",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-016": {
+      "sha256": "2d10e3a40a752d3910a880c3a99d85847bb9598a199d24edff5d05dd35c1a13e",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-017": {
+      "sha256": "4f96fe68a0d3136b8666ff77992dc8861c24268d01923498128cefacbed39b62",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-018": {
+      "sha256": "7985bce0ec69213bdf3adf31caf740f82c67be5dda0275fe7676093f54f5cd84",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-019": {
+      "sha256": "899b9b7aaca3ab37ca4b4b21a4f5e80cba52325f5af14e4ba0bb2341e321685d",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/archives/runtime.zip.part-020": {
+      "sha256": "b7fd5a2cfd51457224d895fa9e2e459269c143e09ba8232354e1af25c210b69e",
+      "size_bytes": 370370024,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/extracted_resource_index.json": {
+      "sha256": "acc6e8d4a56e1dd0c60078cdc8e599d0f8912152760ef0c4e69cbb107fa19cd2",
+      "size_bytes": 156592,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    },
+    "bundles/wma/east-west/ATTRIBUTION.md": {
+      "sha256": "baa8f25ab237cea89ea5b9f92d742bd9bc3e9d4d2a0d9880df04ef9f73b74e2f",
+      "size_bytes": 455,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.57760/sciencedb.17354",
+      "attribution": "https://doi.org/10.1038/s41597-024-03624-2"
+    }
+  },
+  "upstream": [
+    {
+      "filename": "atlas.tar.gz",
+      "size_bytes": 11501574963,
+      "md5": "abda9fd02ede00c525f4313455e4ab09",
+      "sha256": "a8ce14568751dc18437270c304b3ea0bdd9d1e64b951b7599c8bce27f87862b7"
+    }
+  ],
+  "runtime_files": 848,
+  "archive_sha256": "f720f69f7606a7dba3e493fbb0ac00dea223e693f817ef732e89461a4c81f60d"
+}

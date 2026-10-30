@@ -1,0 +1,94 @@
+{
+  "kind": "wma_atlas_resource_mirror",
+  "atlas_family": "naba",
+  "records": {
+    "bundles/wma/naba/archives/runtime.zip.part-000": {
+      "sha256": "3b7decaa531051740c9454f4584a16ff7ea2fcce76c0a03e1ef018d3417276a1",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.5281/zenodo.18227691",
+      "attribution": "https://doi.org/10.1016/j.fmre.2025.12.030"
+    },
+    "bundles/wma/naba/archives/runtime.zip.part-001": {
+      "sha256": "3af376eb0b2f270ba05b45f1c478ceee16de00fc5c7339388a69ed5c5be107ae",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.5281/zenodo.18227691",
+      "attribution": "https://doi.org/10.1016/j.fmre.2025.12.030"
+    },
+    "bundles/wma/naba/archives/runtime.zip.part-002": {
+      "sha256": "a44645427dda05edd9bc5c0a617319d7ee886955bf3ca8adcd638ef7e227c01e",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.5281/zenodo.18227691",
+      "attribution": "https://doi.org/10.1016/j.fmre.2025.12.030"
+    },
+    "bundles/wma/naba/archives/runtime.zip.part-003": {
+      "sha256": "8111845306b44be92f61849e30c6439307052ef1bc565eb958e620d725c51017",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.5281/zenodo.18227691",
+      "attribution": "https://doi.org/10.1016/j.fmre.2025.12.030"
+    },
+    "bundles/wma/naba/archives/runtime.zip.part-004": {
+      "sha256": "5f5b2b13f685818fdb7483782c06eb81706dde35a40751a5f6d31ee9063b3615",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.5281/zenodo.18227691",
+      "attribution": "https://doi.org/10.1016/j.fmre.2025.12.030"
+    },
+    "bundles/wma/naba/archives/runtime.zip.part-005": {
+      "sha256": "22deeac27715ef7ca5779d9ebb644b9488580b918fdc0ab6fba733df309e8f52",
+      "size_bytes": 536870912,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.5281/zenodo.18227691",
+      "attribution": "https://doi.org/10.1016/j.fmre.2025.12.030"
+    },
+    "bundles/wma/naba/archives/runtime.zip.part-006": {
+      "sha256": "486d834b3a08294eb841b9cce30837b89c029173f3628dd42db37c3148395f69",
+      "size_bytes": 38897925,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.5281/zenodo.18227691",
+      "attribution": "https://doi.org/10.1016/j.fmre.2025.12.030"
+    },
+    "bundles/wma/naba/extracted_resource_index.json": {
+      "sha256": "fd79e58b94ac841f21faab5a6ba8a4e4bd387c8f81e8c4b0a6342636856f9a80",
+      "size_bytes": 144730,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.5281/zenodo.18227691",
+      "attribution": "https://doi.org/10.1016/j.fmre.2025.12.030"
+    },
+    "bundles/wma/naba/ATTRIBUTION.md": {
+      "sha256": "a21a61022e225a99e73c5c626ba8767f5d923c66deb77edc4ef8bbf0a75cfbf1",
+      "size_bytes": 442,
+      "redistribution": "with-notice",
+      "license": "CC-BY-4.0",
+      "terms_url": "https://doi.org/10.5281/zenodo.18227691",
+      "attribution": "https://doi.org/10.1016/j.fmre.2025.12.030"
+    }
+  },
+  "upstream": [
+    {
+      "filename": "NABA-800FC.zip",
+      "size_bytes": 963335626,
+      "md5": "0342a3b9a0dbeb95e52882c1066e929c",
+      "sha256": "f833cf8ed8a2ab396befd52ca97b0a061b722ee20f2d87a899088d40b20c030c"
+    },
+    {
+      "filename": "NABA-RegAtlas.zip",
+      "size_bytes": 2401732103,
+      "md5": "aa8f880b6122273c20e9c93fd35f62ec",
+      "sha256": "e8796cd8d6681de8ae5d066ae08f1cb2cb8b35217bbdd1be5d473809d90956d7"
+    }
+  ],
+  "runtime_files": 849,
+  "archive_sha256": "422b50a3b3a91f084cc8717078adbcda8b6f8cbd8d4a5237f4cc64a2c5558cd7"
+}

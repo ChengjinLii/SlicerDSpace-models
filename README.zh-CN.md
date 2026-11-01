@@ -2,7 +2,7 @@
 
 # SlicerDSpace 运行资源
 
-[代码](https://github.com/ChengjinLii/SlicerDSpace) | [资源分组](#资源分组) | [授权说明](RESOURCE_NOTICES.md) | [English](README.md)
+[代码](https://github.com/NeuroDMRI/SlicerDSpace) | [资源分组](#资源分组) | [授权说明](RESOURCE_NOTICES.md) | [English](README.md)
 
 </div>
 

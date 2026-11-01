@@ -2,7 +2,7 @@
 
 # SlicerDSpace Resources
 
-[Code](https://github.com/ChengjinLii/SlicerDSpace) | [Layout](#layout) | [Optional Resources](#optional-resources) | [Notices](RESOURCE_NOTICES.md) | [中文](README.zh-CN.md)
+[Code](https://github.com/NeuroDMRI/SlicerDSpace) | [Layout](#layout) | [Optional Resources](#optional-resources) | [Notices](RESOURCE_NOTICES.md) | [中文](README.zh-CN.md)
 
 </div>
 
@@ -11,7 +11,7 @@
 This repository stores model weights, atlases, templates and other large non-code runtime resources used by
 SlicerDSpace. The code repository is:
 
-https://github.com/ChengjinLii/SlicerDSpace
+https://github.com/NeuroDMRI/SlicerDSpace
 
 ## Layout
 
